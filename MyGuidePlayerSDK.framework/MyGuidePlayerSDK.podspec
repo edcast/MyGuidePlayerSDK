@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
 
 s.name              =   "MyGuidePlayerSDK"
 
-s.version           =   "0.0.1"
+s.version           =   "0.0.2"
 
 s.summary           =   "Simple SDK for developers to integrate with their app and provide in-app guidance for their users."
 
