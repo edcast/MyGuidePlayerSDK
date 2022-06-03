@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
 
 s.name              =   "MyGuidePlayerSDK"
 
-s.version           =   "0.0.2"
+s.version           =   "1.0.0"
 
 s.summary           =   "Simple SDK for developers to integrate with their app and provide in-app guidance for their users."
 
@@ -23,11 +23,6 @@ s.ios.deployment_target = '11.0'
 s.source            =   { :git => 'https://github.com/edcast/MyGuidePlayerSDK.git', :tag => s.version }
 
 
-s.vendored_frameworks = 'MyGuidePlayerSDK.framework'
-
-s.dependency 'SwiftyJSON'
-s.dependency 'SwiftJWT'
-s.dependency 'SDWebImage'
-s.dependency 'UIActivityIndicator-for-SDWebImage'
+s.vendored_frameworks = 'InlinePlayerSDK.xcframework'
 
 end

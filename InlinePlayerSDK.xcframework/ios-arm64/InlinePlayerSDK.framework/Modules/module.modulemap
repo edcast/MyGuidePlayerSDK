@@ -1,0 +1,11 @@
+framework module InlinePlayerSDK {
+  umbrella header "InlinePlayerSDK.h"
+
+  export *
+  module * { export * }
+}
+
+module InlinePlayerSDK.Swift {
+    header "InlinePlayerSDK-Swift.h"
+    requires objc
+}
