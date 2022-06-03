@@ -6,7 +6,7 @@ A simple SDK that provides in-app guidance to improve in-app user engagement. It
 With CocoaPods, add to your Podfile
 
 ```sh
-pod 'MyGuidePlayerSDK'
+pod 'InlinePlayerSDK'
 ```
 Open your project directory in terminal and run
 ```sh
