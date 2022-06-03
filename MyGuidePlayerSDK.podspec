@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 
-s.name              =   "MyGuidePlayerSDK"
+s.name              =   "InlinePlayerSDK"
 
 s.version           =   "1.0.0"
 
@@ -21,7 +21,6 @@ s.swift_version     =   '5.0'
 s.ios.deployment_target = '11.0'
 
 s.source            =   { :git => 'https://github.com/edcast/MyGuidePlayerSDK.git', :tag => s.version }
-
 
 s.vendored_frameworks = 'InlinePlayerSDK.xcframework'
 
