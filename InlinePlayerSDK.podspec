@@ -10,6 +10,10 @@ s.description       =   "With just one line of code, MyGuide SDK helps provide i
 
 s.homepage          =   "https://www.myguide.org/"
 
+s.readme 			= 	'https://github.com/edcast/MyGuidePlayerSDK/blob/master/README.md'
+
+s.changelog 		= 	'https://github.com/edcast/MyGuidePlayerSDK/blob/master/CHANGELOG.md'
+
 s.license           =   "Commercial"
 
 s.author            =   { "Edcast Inc" => "https://www.myguide.org/" }
@@ -23,5 +27,6 @@ s.ios.deployment_target = '11.0'
 s.source            =   { :git => 'https://github.com/edcast/MyGuidePlayerSDK.git', :tag => s.version }
 
 s.vendored_frameworks = 'InlinePlayerSDK.xcframework'
+
 
 end
