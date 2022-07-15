@@ -2,7 +2,7 @@
 //  InlinePlayerSDK.h
 //  InlinePlayerSDK
 //
-//  Created by Pradeep Parmar on 26/01/21.
+//  Created by Pradeep Parmar on 08/06/22.
 //
 
 #import <Foundation/Foundation.h>
