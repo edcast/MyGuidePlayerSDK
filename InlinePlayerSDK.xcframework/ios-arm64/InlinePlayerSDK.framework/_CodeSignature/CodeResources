@@ -254,7 +254,7 @@
 		</data>
 		<key>Modules/InlinePlayerSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		keYvFnFdrCbJyPi+xu6X6dq6CT4=
+		cSYGUK8AEQ+OtLVZKssEQOz02I0=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -476,17 +476,17 @@
 		<data>
 		F6vvIq7KSHPRO4qV0mAMei/F+DA=
 		</data>
-		<key>PlayerSDK.bundle/sorting_icon.png</key>
+		<key>PlayerSDK.bundle/sorting.png</key>
 		<data>
-		9hMva9VCh8zfE3xjdpF7gGFCmGY=
+		gRWuNu/Ga4tbZBoP6vH6VRcyzUU=
 		</data>
-		<key>PlayerSDK.bundle/sorting_icon@2x.png</key>
+		<key>PlayerSDK.bundle/sorting@2x.png</key>
 		<data>
-		A4olraTThYBhctkJVkt+vl9FYmk=
+		UUOCc4/ed2NcUr7IaW7TqU4h4uM=
 		</data>
-		<key>PlayerSDK.bundle/sorting_icon@3x.png</key>
+		<key>PlayerSDK.bundle/sorting@3x.png</key>
 		<data>
-		wFgcBb1p+MCVMWzx1SHkTw8U+Fk=
+		MTELSMt7fk5eK76dtDJb0ERsfGc=
 		</data>
 		<key>PlayerSDK.bundle/video.png</key>
 		<data>
@@ -934,7 +934,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			xVmR0gkQW5s9SqgDl5tVwn3onecE0cVReqMZdiks9+c=
+			PeRu+klUi3jLgLjDFmx55Kp+EOuf9W9o2tiVqEPJzwg=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -1322,25 +1322,25 @@
 			ACqdCbVSRUr/NFY8GP1a16YEypcve4t/6k1AUsXP5V0=
 			</data>
 		</dict>
-		<key>PlayerSDK.bundle/sorting_icon.png</key>
+		<key>PlayerSDK.bundle/sorting.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			qFF6TumnuDQ4Aw/cdgtrD+a+vcr5MJgDz9wzRKjUfI0=
+			BzFzxQSPAVJwZTZHMO/6HODIlhdZGY9t0S8qam9P+w4=
 			</data>
 		</dict>
-		<key>PlayerSDK.bundle/sorting_icon@2x.png</key>
+		<key>PlayerSDK.bundle/sorting@2x.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			hfwwm+m2XmS2KFWVjrXlQwM1GJM7fNaMydsAP2ECjLM=
+			RTXdBJeOT77Q/o0jksHLewSGjaljBn4GG9gPeLM6noQ=
 			</data>
 		</dict>
-		<key>PlayerSDK.bundle/sorting_icon@3x.png</key>
+		<key>PlayerSDK.bundle/sorting@3x.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			4FTdlyB2lkg3pZq0DHUw7yYZwDk47Yzj7TxHeUiLdj8=
+			bYceykfwNUyIq+xcWUeqGonKtlR4y/TaJkGAyaSSy28=
 			</data>
 		</dict>
 		<key>PlayerSDK.bundle/video.png</key>
