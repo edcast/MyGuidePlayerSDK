@@ -2,6 +2,10 @@
 # MyGuidePlayer iOS SDK
 A simple SDK that provides in-app guidance to improve in-app user engagement. It integrates seamlessly without the need to write code or do deployment. 
 
+### Ver 1.0.3
+ - Implemented Notification guide in SDK.
+ - Bug Fixes.
+ 
 ### Ver 1.0.2
  - Improved experience of in-app guide playback.
  - Implemented an auto sync process for the guides.
