@@ -6,6 +6,6 @@ framework module InlinePlayerSDK {
 }
 
 module InlinePlayerSDK.Swift {
-    header "InlinePlayerSDK-Swift.h"
-    requires objc
+  header "InlinePlayerSDK-Swift.h"
+  requires objc
 }

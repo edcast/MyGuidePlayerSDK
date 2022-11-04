@@ -1,12 +1,14 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)
-// swift-module-flags: -target arm64-apple-ios11.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name InlinePlayerSDK
+// swift-compiler-version: Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)
+// swift-module-flags: -target x86_64-apple-ios11.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name InlinePlayerSDK
+// swift-module-flags-ignorable: -enable-bare-slash-regex
 import AVFoundation
 import AVKit
 import Accelerate
 import CommonCrypto
 import CoreGraphics
 import CoreImage
+import CoreMIDI
 import CryptoKit
 import Foundation
 import GLKit
@@ -23,6 +25,7 @@ import SystemConfiguration
 import UIKit
 import WebKit
 import _Concurrency
+import _StringProcessing
 import os.log
 import os
 public struct KeychainSwiftConstants {
@@ -113,11 +116,11 @@ infix operator |> : AdditionPrecedence
     @objc get
     @objc set
   }
-  @objc public func hideSDKLauncherIcon(hide: Swift.Bool, withAnimation animated: Swift.Bool)
+  @objc public func hidePlayerSDKLauncherIcon(hide: Swift.Bool, withAnimation animated: Swift.Bool)
   @objc public class func deInitializeSDK()
   @objc public class func initializeWith(orgnizationKey: Swift.String, secretKey: Swift.String, dict: [Swift.String : Swift.String]? = nil)
   @objc public class func setSDKLaunchIcon(icon: UIKit.UIImage?)
-  @objc public class func setSDKLaunchPosition(position: CoreGraphics.CGPoint)
+  @objc public class func setSDKLaunchPosition(position: CoreFoundation.CGPoint)
   @objc deinit
 }
 extension UIKit.UIView {
