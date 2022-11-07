@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/InlinePlayerSDK-Swift.h</key>
 		<data>
-		QM8iOENLAgfbPm1AQjmLBpZAaXo=
+		lb9QToJcqjbrYgGUzf5/OqJP8y8=
 		</data>
 		<key>Headers/InlinePlayerSDK.h</key>
 		<data>
@@ -18,7 +18,7 @@
 		</data>
 		<key>IPSDKCommon.storyboardc/8Gb-0r-7ZT-view-V1x-mb-Fqx.nib</key>
 		<data>
-		34VQKlEoxYleKeVinx3apL5vM5s=
+		F3yrcaXLyKtbR23V75Ne/fmwqc8=
 		</data>
 		<key>IPSDKCommon.storyboardc/IPSDKEmptyMediaFileViewController.nib</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>IPSDKCommon.storyboardc/U9P-cb-7qj-view-Wur-Hv-RYR.nib</key>
 		<data>
-		+Qp7FkWp31MyyvC0yMuN5EFdNq0=
+		EO3Mck3IFttOjV9dgvXP6RAKAaE=
 		</data>
 		<key>IPSDKInfo.plist</key>
 		<data>
@@ -42,11 +42,11 @@
 		</data>
 		<key>IPSDKLogin.storyboardc/8VJ-ib-tTS-view-Rp1-bD-UGK.nib/objects-13.0+.nib</key>
 		<data>
-		NYI6WEV/Vk3A5zX1efwvBqzsa/w=
+		PNsaiO4u1XwEgZtql3KNPNflO6s=
 		</data>
 		<key>IPSDKLogin.storyboardc/8VJ-ib-tTS-view-Rp1-bD-UGK.nib/runtime.nib</key>
 		<data>
-		CxQW3E/zAsdLfJeUcfhywjCuRkA=
+		YO3G6+l1gNRHC5rBv7w0SkeAWwo=
 		</data>
 		<key>IPSDKLogin.storyboardc/IPSDKForgotPasswordViewController.nib/objects-13.0+.nib</key>
 		<data>
@@ -58,11 +58,11 @@
 		</data>
 		<key>IPSDKLogin.storyboardc/IPSDKLoginViewController.nib/objects-13.0+.nib</key>
 		<data>
-		+KBPj7t3SABaDokGtuEKYExmC70=
+		7ebtcUH3Ma3h1ZRoGaXqazsEEHw=
 		</data>
 		<key>IPSDKLogin.storyboardc/IPSDKLoginViewController.nib/runtime.nib</key>
 		<data>
-		+KBPj7t3SABaDokGtuEKYExmC70=
+		7ebtcUH3Ma3h1ZRoGaXqazsEEHw=
 		</data>
 		<key>IPSDKLogin.storyboardc/IPSDKOtpViewController.nib/objects-13.0+.nib</key>
 		<data>
@@ -78,27 +78,27 @@
 		</data>
 		<key>IPSDKLogin.storyboardc/cLg-xd-fXu-view-zPN-mh-2Y5.nib/objects-13.0+.nib</key>
 		<data>
-		06jkbnv5Az5+LUZyYv/KbU38JJI=
+		zKkPFeNjtAGFxmxC60g/yAMedNo=
 		</data>
 		<key>IPSDKLogin.storyboardc/cLg-xd-fXu-view-zPN-mh-2Y5.nib/runtime.nib</key>
 		<data>
-		06jkbnv5Az5+LUZyYv/KbU38JJI=
+		zKkPFeNjtAGFxmxC60g/yAMedNo=
 		</data>
 		<key>IPSDKLogin.storyboardc/mTU-qZ-tDE-view-pjz-F0-TMY.nib/objects-13.0+.nib</key>
 		<data>
-		pD1Gcui2huPV0yPoqTAR8ARqXOQ=
+		EI6fI1lbLV995HHJ5gdLx1534Iw=
 		</data>
 		<key>IPSDKLogin.storyboardc/mTU-qZ-tDE-view-pjz-F0-TMY.nib/runtime.nib</key>
 		<data>
-		pD1Gcui2huPV0yPoqTAR8ARqXOQ=
+		EI6fI1lbLV995HHJ5gdLx1534Iw=
 		</data>
 		<key>IPSDKPlayer.storyboardc/0uw-le-vGl-view-rWi-3c-L90.nib</key>
 		<data>
-		gHoLTLZ7ZL/b7bZUMsJhSLSxAlk=
+		dLi2LzeADmw1rpPLBQswJv2bQlc=
 		</data>
 		<key>IPSDKPlayer.storyboardc/IPSDKContainerViewController.nib</key>
 		<data>
-		vQIWr7r0IwJk9WBIEzQwubIoyQs=
+		XjZRT8AXkzT9Y6j7LBmtGSgQ27k=
 		</data>
 		<key>IPSDKPlayer.storyboardc/IPSDKNotificationPopUpViewController.nib</key>
 		<data>
@@ -106,7 +106,7 @@
 		</data>
 		<key>IPSDKPlayer.storyboardc/IPSDKNotificationTourListViewController.nib</key>
 		<data>
-		RfCC9qYMolO1WF2EM4pK96kG0AY=
+		/7gNZjEIna0AOs7BAy3tiT9FwZI=
 		</data>
 		<key>IPSDKPlayer.storyboardc/IPSDKPdfPreviewViewController.nib</key>
 		<data>
@@ -122,7 +122,7 @@
 		</data>
 		<key>IPSDKPlayer.storyboardc/IPSDKPlayerTourListViewController.nib</key>
 		<data>
-		xb0YFeCI9wR7SheA8SjIgE7nyT0=
+		J0i7yA8I1tGAjZD4jm+nQC91GmM=
 		</data>
 		<key>IPSDKPlayer.storyboardc/IPSDKPlayerVideoStepViewController.nib</key>
 		<data>
@@ -130,7 +130,7 @@
 		</data>
 		<key>IPSDKPlayer.storyboardc/IPSDKProfileViewController.nib</key>
 		<data>
-		P4K51xaRrsLeRQlT9Nhx9OZvlUE=
+		thsl7z/qBtDUxZyZSZQG88MDiE0=
 		</data>
 		<key>IPSDKPlayer.storyboardc/IPSDKSortViewController.nib</key>
 		<data>
@@ -150,63 +150,63 @@
 		</data>
 		<key>IPSDKPlayer.storyboardc/Lxg-41-6SO-view-9iJ-rm-aCH.nib</key>
 		<data>
-		zZAYAtOWybKn6U7Kqvp148nte3M=
+		oBlTImEoLlQ2kQxmLfK0soM7a8Q=
 		</data>
 		<key>IPSDKPlayer.storyboardc/MuZ-du-1aR-view-6Ro-wz-JEX.nib</key>
 		<data>
-		XfqM9uIA7XSoVxWl052oBp1+NE0=
+		Un6/M/0xaGmPWnKjqtCkWlkodV4=
 		</data>
 		<key>IPSDKPlayer.storyboardc/XZX-sN-6Vq-view-nL9-61-knY.nib</key>
 		<data>
-		QUcAm1x3qtAqIp4BQnbj6dNMhUE=
+		RSetNyG0UYNfJiQdD/5lUCd9Zjs=
 		</data>
 		<key>IPSDKPlayer.storyboardc/XnK-q9-UkA-view-9Ay-Q1-TwP.nib</key>
 		<data>
-		5NElFsy+otHHyX9PE9nnbMVpyf8=
+		fxKDnsHxaURpCqrPniBFl4H3eJA=
 		</data>
 		<key>IPSDKPlayer.storyboardc/Xno-lI-gok-view-JJN-Nj-uKQ.nib</key>
 		<data>
-		sWTu314lpnwXiKSNf1cm6notarM=
+		RXFwFMFQzDNO8RSS6mZfMgrOqpY=
 		</data>
 		<key>IPSDKPlayer.storyboardc/cxI-w0-Y2M-view-Gdz-t2-wrq.nib</key>
 		<data>
-		vtJM8sIMfOTwCKEXqr2mQPcCeMs=
+		TUtg58jOJvR5bq7ZEsvTSHNQpZA=
 		</data>
 		<key>IPSDKPlayer.storyboardc/dfA-zB-cvM-view-4VG-6K-oeI.nib</key>
 		<data>
-		t5Aq6o344wmKG1Jbko0Q32m4WWM=
+		Uzd5QKobQG3g1zfKxog3krF3J/U=
 		</data>
 		<key>IPSDKPlayer.storyboardc/jAe-kf-PBQ-view-egT-q7-Kzv.nib</key>
 		<data>
-		WcbTlkQ6nE0rxSEgsPgYLeSAxno=
+		YEi/GmhtD70uHDsCdDqfNU5bK/U=
 		</data>
 		<key>IPSDKPlayer.storyboardc/lmN-Cg-OGB-view-JYl-rF-t0s.nib</key>
 		<data>
-		Qtmwo/6g140SkaPAXCEJntP72dw=
+		lU4+0VPM+aIRtVp4mvjBn6HEYOA=
 		</data>
 		<key>IPSDKPlayer.storyboardc/wGr-bK-ijV-view-fWk-5R-69i.nib</key>
 		<data>
-		TKHFGSHWzLqBMhjbDxpN6/5k3JQ=
+		0ROn6C+pya6iT72LYtJNhLoQS+g=
 		</data>
 		<key>IPSDKPlayer.storyboardc/x7r-0z-BNa-view-cze-48-oDG.nib</key>
 		<data>
-		7LmYvlGbum6CU6cQq9hwyjt1rQY=
+		kMD/8AiA7Jsj+QvPU1R2tlDyzLY=
 		</data>
 		<key>IPSDKShowMe.storyboardc/Cny-RD-Qua-view-gUi-jy-wb1.nib/objects-12.3+.nib</key>
 		<data>
-		994DFgvVjb/mR1uDuwUF7Akr1QE=
+		5TVzv0frkGTNp7sV0aIzF3v5aTY=
 		</data>
 		<key>IPSDKShowMe.storyboardc/Cny-RD-Qua-view-gUi-jy-wb1.nib/runtime.nib</key>
 		<data>
-		A08EwoRfrvjSifFPvfh4BNdq+OE=
+		QtpLIE8Bg0iCng7cEOE47oAUfpg=
 		</data>
 		<key>IPSDKShowMe.storyboardc/HV1-5f-UGF-view-0fa-Q3-ftu.nib/objects-12.3+.nib</key>
 		<data>
-		6FZEuqDa1fhFFTsKLP7X4mv64zg=
+		POOkTn1fDNZVtaGO7wqGI5t57gA=
 		</data>
 		<key>IPSDKShowMe.storyboardc/HV1-5f-UGF-view-0fa-Q3-ftu.nib/runtime.nib</key>
 		<data>
-		6FZEuqDa1fhFFTsKLP7X4mv64zg=
+		POOkTn1fDNZVtaGO7wqGI5t57gA=
 		</data>
 		<key>IPSDKShowMe.storyboardc/IPSDKGiphyViewController.nib/objects-12.3+.nib</key>
 		<data>
@@ -254,51 +254,55 @@
 		</data>
 		<key>IPSDKShowMe.storyboardc/flo-E7-cet-view-nCc-wv-JVY.nib/objects-12.3+.nib</key>
 		<data>
-		WYt+F3tMnvSUPgZZWHXFyOFVC+Q=
+		E7ToHDX5322CeeUDIze01ubi1Uw=
 		</data>
 		<key>IPSDKShowMe.storyboardc/flo-E7-cet-view-nCc-wv-JVY.nib/runtime.nib</key>
 		<data>
-		WYt+F3tMnvSUPgZZWHXFyOFVC+Q=
+		E7ToHDX5322CeeUDIze01ubi1Uw=
 		</data>
 		<key>IPSDKShowMe.storyboardc/fsO-CL-z31-view-beJ-1C-3Zj.nib/objects-12.3+.nib</key>
 		<data>
-		/TxXfOTGx3lb51dHxw5JlBVT5Gg=
+		VfrtIYkZ1oyT1iqLMvCeTUfZK3o=
 		</data>
 		<key>IPSDKShowMe.storyboardc/fsO-CL-z31-view-beJ-1C-3Zj.nib/runtime.nib</key>
 		<data>
-		/TxXfOTGx3lb51dHxw5JlBVT5Gg=
+		VfrtIYkZ1oyT1iqLMvCeTUfZK3o=
 		</data>
 		<key>IPSDKTooltipView.nib</key>
 		<data>
-		wMejm4uDE5w7ymL/FHZm7eYuEBE=
+		8zSeiuwmJI4gMjmbFySqpoUnEQY=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		SiS6wFOeN/DmGPKHXRT6YW8d7Qs=
-		</data>
-		<key>Modules/InlinePlayerSDK.swiftmodule/arm64-apple-ios.abi.json</key>
-		<data>
-		QRaMud00evb8atbmOrDGHPjSxgc=
-		</data>
-		<key>Modules/InlinePlayerSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
-		<data>
-		0zSK0Qn0yU5lV4Zhi2QqGQ+Pmrc=
+		juQtxoJFOrFRtP62QdDKcwuIcEE=
 		</data>
 		<key>Modules/InlinePlayerSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		OaUG/knfCNTYrm2oJJiNUUeK9mY=
+		dYgJtDIOq0/PUBjps+XaLihiij8=
 		</data>
 		<key>Modules/InlinePlayerSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		0zSK0Qn0yU5lV4Zhi2QqGQ+Pmrc=
+		UxH8CyyL3r+OOqvA8qkDKBskC/8=
 		</data>
 		<key>Modules/InlinePlayerSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		q/D6cNgy30Lmq4Zaw/TPoxXsIHc=
+		Pa9wKgFkIgoFP5WWVfmvM9ZywPQ=
+		</data>
+		<key>Modules/InlinePlayerSDK.swiftmodule/arm64.swiftdoc</key>
+		<data>
+		dYgJtDIOq0/PUBjps+XaLihiij8=
+		</data>
+		<key>Modules/InlinePlayerSDK.swiftmodule/arm64.swiftinterface</key>
+		<data>
+		UxH8CyyL3r+OOqvA8qkDKBskC/8=
+		</data>
+		<key>Modules/InlinePlayerSDK.swiftmodule/arm64.swiftmodule</key>
+		<data>
+		Pa9wKgFkIgoFP5WWVfmvM9ZywPQ=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		1oK3GU3WXLJRHXfbhB6VJrytiWA=
+		FmP9z4qYcnv47iefqckmba0QvnM=
 		</data>
 		<key>PlayerLaunchIcon.bundle/player_launch_icon.png</key>
 		<data>
@@ -663,7 +667,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			WDrN+I5i1zhX+3SAAxx2r8vSnVnC8OTtpQIOARGdbaY=
+			o9R4il1BN9fmNzYuxNuCWzqyjfB57Lp5ZNp49c74duE=
 			</data>
 		</dict>
 		<key>Headers/InlinePlayerSDK.h</key>
@@ -684,7 +688,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			l9oiNHjZdDtJGom8xt8aZf7YS8xW2tNsYrHPzPmaxGQ=
+			KJ7tC1/U7y5wRxN7ZJ0DJZZs0aFiNJk7lQ2AcI9TN6Q=
 			</data>
 		</dict>
 		<key>IPSDKCommon.storyboardc/IPSDKEmptyMediaFileViewController.nib</key>
@@ -712,7 +716,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Iz4Vne3ul8LLFIGe8XjXVNiQcRsWviNOI6Kbyz5zYcw=
+			xSwNM4aYEu1qEqj/3UDwI/1xyeJam4j+QuCrPJ1oVG4=
 			</data>
 		</dict>
 		<key>IPSDKInfo.plist</key>
@@ -726,14 +730,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			I3tCUFP3e6Bu/FThpAassmBV4TDYNJX1JvLVJp/cttU=
+			hkrJIH+gQuVy5QiiY3kymng3DawxJMQD9eiEvMUux5M=
 			</data>
 		</dict>
 		<key>IPSDKLogin.storyboardc/8VJ-ib-tTS-view-Rp1-bD-UGK.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			DvKp1MQrF60Ylwhl/7k1Eci4Aqsz/44AIp5AYjeipZg=
+			R0Ssoca4HTaGTOFnAkyixD6rNGqPLScevPmtU/GMz6E=
 			</data>
 		</dict>
 		<key>IPSDKLogin.storyboardc/IPSDKForgotPasswordViewController.nib/objects-13.0+.nib</key>
@@ -754,14 +758,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			VnQ9BoBmGRRGmkNfq8Hn3JuqBetSLe+nFxyBQfrB6gU=
+			BeR2o9aLz/ECQg7ARFXhu5fBbyHGoh6eOh+WIl7ASkA=
 			</data>
 		</dict>
 		<key>IPSDKLogin.storyboardc/IPSDKLoginViewController.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			VnQ9BoBmGRRGmkNfq8Hn3JuqBetSLe+nFxyBQfrB6gU=
+			BeR2o9aLz/ECQg7ARFXhu5fBbyHGoh6eOh+WIl7ASkA=
 			</data>
 		</dict>
 		<key>IPSDKLogin.storyboardc/IPSDKOtpViewController.nib/objects-13.0+.nib</key>
@@ -789,42 +793,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			32Uiao5eFhNwLSbK33L/dSlNZLhEhONgD362HoGQplc=
+			mt2u9NbW+6bT5uh12/uDMjSB7p4HITDvm/Hv0o7dHCs=
 			</data>
 		</dict>
 		<key>IPSDKLogin.storyboardc/cLg-xd-fXu-view-zPN-mh-2Y5.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			32Uiao5eFhNwLSbK33L/dSlNZLhEhONgD362HoGQplc=
+			mt2u9NbW+6bT5uh12/uDMjSB7p4HITDvm/Hv0o7dHCs=
 			</data>
 		</dict>
 		<key>IPSDKLogin.storyboardc/mTU-qZ-tDE-view-pjz-F0-TMY.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			h54P4S40Q/vWMbGvRrte5wVvPjyWnyO5Sd8jjADrJ3Q=
+			yX2P4VZeSzLXYeZXWbofge9kY89RNgZ6kLQXcw2bSHY=
 			</data>
 		</dict>
 		<key>IPSDKLogin.storyboardc/mTU-qZ-tDE-view-pjz-F0-TMY.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			h54P4S40Q/vWMbGvRrte5wVvPjyWnyO5Sd8jjADrJ3Q=
+			yX2P4VZeSzLXYeZXWbofge9kY89RNgZ6kLQXcw2bSHY=
 			</data>
 		</dict>
 		<key>IPSDKPlayer.storyboardc/0uw-le-vGl-view-rWi-3c-L90.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			FxyvJCvfqNJG8OTc4NeKV0sQWVFazYqHH+7q17h6tt0=
+			WF1rqJbRK8Tk6buCR+Apw3P0ERMzscSeFAaAj/YH7hs=
 			</data>
 		</dict>
 		<key>IPSDKPlayer.storyboardc/IPSDKContainerViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			b+wW4neFN5/7eLfR0vaG39y2xZsmRqMJQkNJQ9xcLfc=
+			DvWE5dAjyjRhZhyh9d0dfxJETPAPzfAGyHs/ReANq9k=
 			</data>
 		</dict>
 		<key>IPSDKPlayer.storyboardc/IPSDKNotificationPopUpViewController.nib</key>
@@ -838,7 +842,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			zTpDepd/8dLJPOS4qsJRq7StNH88JheK4eKyuhl2Wyg=
+			VPfEAZ1UI+O8C+e3DwOJC2FvCQDFandiMp2mB8zWwqw=
 			</data>
 		</dict>
 		<key>IPSDKPlayer.storyboardc/IPSDKPdfPreviewViewController.nib</key>
@@ -866,7 +870,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			nB1ODfx6XeDSVxd0Qx/H6IH4rvFioyzsO9fxSX0X9U8=
+			6bExYdO3zxZ+VZoirj1uyPl9rykxjBU92i9xEXNXjRY=
 			</data>
 		</dict>
 		<key>IPSDKPlayer.storyboardc/IPSDKPlayerVideoStepViewController.nib</key>
@@ -880,7 +884,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			gqrEcvb75q0NnY+F4kq28eMh+wHMLhNicN9NRiKzN5c=
+			njj3tPqk4U+QxSw69yNgXL1+11pyt3+h6hoZeHFc1d0=
 			</data>
 		</dict>
 		<key>IPSDKPlayer.storyboardc/IPSDKSortViewController.nib</key>
@@ -915,105 +919,105 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			NiRtDKrgJdkZnFttgMwA90uuOS87CznOc5elaafxwts=
+			QBu1u15aQa1ip825jOpnHJTfVIk487Yp2dqcX6uPUsw=
 			</data>
 		</dict>
 		<key>IPSDKPlayer.storyboardc/MuZ-du-1aR-view-6Ro-wz-JEX.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+/Gqhf3ISiU7AVZ3Wa90jJ5TBQR0BeIqSh6CU/GQHyc=
+			0Zle8y/EjayafvsSPrAi+2l1wRE8SKNhAAfV42ykB68=
 			</data>
 		</dict>
 		<key>IPSDKPlayer.storyboardc/XZX-sN-6Vq-view-nL9-61-knY.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			l6bagCwIOSk5pb6ddhhlapXJhUuE/NDGa/ieLJ/Jbaw=
+			ahDsMxtVI5YIL4Y1V0445ubnEn13FKHSrWfp0zOasrw=
 			</data>
 		</dict>
 		<key>IPSDKPlayer.storyboardc/XnK-q9-UkA-view-9Ay-Q1-TwP.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			FQajHBKGRj08J+5pJK/sHRTJHTrFElm4DDPMAiEYgLE=
+			WIHKwUpKP/inmJPzmjTXbPmMVhJGVPwIEfPs0mW6IeI=
 			</data>
 		</dict>
 		<key>IPSDKPlayer.storyboardc/Xno-lI-gok-view-JJN-Nj-uKQ.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			9Er8+OK7ozf5+u48iMMUwp6jXXB3UIY+Sd0+S2bjZM8=
+			+95jPfpv2E5mB9rvZ64jKM8qyCO3I8FnRX5XzphkeqY=
 			</data>
 		</dict>
 		<key>IPSDKPlayer.storyboardc/cxI-w0-Y2M-view-Gdz-t2-wrq.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			bTwSQ1XzpFb/iMvKJ/8vh9+wVd9QWXQa3bx4dnVU/k0=
+			51p+UMRKKPnX9iQCEKx0feYNwLNmutpn+aW7X/2FBuA=
 			</data>
 		</dict>
 		<key>IPSDKPlayer.storyboardc/dfA-zB-cvM-view-4VG-6K-oeI.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			qjXJF+QNQKUnpgD6YNjXIIokbt4KrnWyEAtYlTXxDrs=
+			WCkXl6RChYFq6xQTcexfpwiwdBJfW/j4zV0FbyHNODY=
 			</data>
 		</dict>
 		<key>IPSDKPlayer.storyboardc/jAe-kf-PBQ-view-egT-q7-Kzv.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			WJVYV1fGFmwoz6o6PewXwmqCI4qsI5VcDRtqkJFlJbE=
+			XDmKtLOW5SOLg/KKCJ3ZzFBS5bP+K0I//wV596V3akE=
 			</data>
 		</dict>
 		<key>IPSDKPlayer.storyboardc/lmN-Cg-OGB-view-JYl-rF-t0s.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			y/mDzvEIquuKeN000Y2gOH/mByDJaCdYiVDEgh5oZ3E=
+			EjV9gV8gUcnrB//0Ymby2Fs3ZTbHK4KPnCELYlmaKHg=
 			</data>
 		</dict>
 		<key>IPSDKPlayer.storyboardc/wGr-bK-ijV-view-fWk-5R-69i.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6lHYhv/yCzm/MsEe+2TsjQOvhMZklJVB0ZF+INu4O8Y=
+			CQUbpWymY/gcn6y0Y3sqI874CJzuuyKY7koRxh3cpN4=
 			</data>
 		</dict>
 		<key>IPSDKPlayer.storyboardc/x7r-0z-BNa-view-cze-48-oDG.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ekqyFkgZORDQZFwryCc3CkZuck32nsUfMTZnbR33N+4=
+			7giUBPfOs3aCW2lGvcGI01CRmjEG4qOpkklxfOyDdQQ=
 			</data>
 		</dict>
 		<key>IPSDKShowMe.storyboardc/Cny-RD-Qua-view-gUi-jy-wb1.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			191x2+RGWz0lVbsDABGG/mkU+OoTCPOiZQJkssKoF6Q=
+			+JzkR4WT5xlty5ewaw61O8RcMXDfyV6L8xiM43yA2po=
 			</data>
 		</dict>
 		<key>IPSDKShowMe.storyboardc/Cny-RD-Qua-view-gUi-jy-wb1.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			HNQhaFjpOCNaxITh6Hyv961wsEp2x2BJHPrMITSDIoA=
+			Z3ykmULjsFEsabmbpkwAWXwYfLRbEKcRLlTjsPRvBqY=
 			</data>
 		</dict>
 		<key>IPSDKShowMe.storyboardc/HV1-5f-UGF-view-0fa-Q3-ftu.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			59jPRgd0XH7f9J1UNAs8YA7KLnzbitZcP2m1jnwgG0w=
+			wQWiFGhShXpKsGZ1BvtUD+brfwPaZPOrDsz3iJ0ltyc=
 			</data>
 		</dict>
 		<key>IPSDKShowMe.storyboardc/HV1-5f-UGF-view-0fa-Q3-ftu.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			59jPRgd0XH7f9J1UNAs8YA7KLnzbitZcP2m1jnwgG0w=
+			wQWiFGhShXpKsGZ1BvtUD+brfwPaZPOrDsz3iJ0ltyc=
 			</data>
 		</dict>
 		<key>IPSDKShowMe.storyboardc/IPSDKGiphyViewController.nib/objects-12.3+.nib</key>
@@ -1097,77 +1101,84 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			z6qHpSSE4aAIGHMsJdFAGhMYaq8ZcI72VzZJ5mzwopY=
+			rudNeB0JahFbo9SRUkOj4pKQCJoOJoAiRXv6AnsVcy4=
 			</data>
 		</dict>
 		<key>IPSDKShowMe.storyboardc/flo-E7-cet-view-nCc-wv-JVY.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			z6qHpSSE4aAIGHMsJdFAGhMYaq8ZcI72VzZJ5mzwopY=
+			rudNeB0JahFbo9SRUkOj4pKQCJoOJoAiRXv6AnsVcy4=
 			</data>
 		</dict>
 		<key>IPSDKShowMe.storyboardc/fsO-CL-z31-view-beJ-1C-3Zj.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			BbSz2btDKsf8TMUktn00uRxDRiGIX7Ltg9xr7n4PyD8=
+			u24Rv2w6P7x7DJ1XG3L5r6NYFAxESzWZBLsBPlVvXWk=
 			</data>
 		</dict>
 		<key>IPSDKShowMe.storyboardc/fsO-CL-z31-view-beJ-1C-3Zj.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			BbSz2btDKsf8TMUktn00uRxDRiGIX7Ltg9xr7n4PyD8=
+			u24Rv2w6P7x7DJ1XG3L5r6NYFAxESzWZBLsBPlVvXWk=
 			</data>
 		</dict>
 		<key>IPSDKTooltipView.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6HgwcDO2Kaoz3kD+Ug2D50wnBjvKCkctsNICFfAkmEE=
-			</data>
-		</dict>
-		<key>Modules/InlinePlayerSDK.swiftmodule/arm64-apple-ios.abi.json</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			3+asqxEVHUQjqvhphBCq5DSVzRkY0FfPeC+8VRfPZ8M=
-			</data>
-		</dict>
-		<key>Modules/InlinePlayerSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			jEHzbKLRFbonda1IWocgo8V4EUeWvIp4t3a6wX+/ReY=
+			gcVYP51Y9uAUZMJQKqc32LtbBeALg+08w+5s6s+fgAw=
 			</data>
 		</dict>
 		<key>Modules/InlinePlayerSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			hsuKn+Nj7jBNOT4gev+QWYg2jcwIndqotnckFf4wBms=
+			qijlFFjb40yl67nMjWcC4dnD7zi5ezWxwTgHOH213qw=
 			</data>
 		</dict>
 		<key>Modules/InlinePlayerSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			jEHzbKLRFbonda1IWocgo8V4EUeWvIp4t3a6wX+/ReY=
+			QGoBdBwH7fEfNZqDZQPhafRaTHH89koYbk7TJ4QTO8I=
 			</data>
 		</dict>
 		<key>Modules/InlinePlayerSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			SoPKayIoTHU7YKQOIG3jg53KLcqgW8V6cD5uX5ACh8s=
+			A0948TRMvn/mxubtpGjtvPkMT0/64OCp7detNAtF/lI=
+			</data>
+		</dict>
+		<key>Modules/InlinePlayerSDK.swiftmodule/arm64.swiftdoc</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			qijlFFjb40yl67nMjWcC4dnD7zi5ezWxwTgHOH213qw=
+			</data>
+		</dict>
+		<key>Modules/InlinePlayerSDK.swiftmodule/arm64.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			QGoBdBwH7fEfNZqDZQPhafRaTHH89koYbk7TJ4QTO8I=
+			</data>
+		</dict>
+		<key>Modules/InlinePlayerSDK.swiftmodule/arm64.swiftmodule</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			A0948TRMvn/mxubtpGjtvPkMT0/64OCp7detNAtF/lI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			O6n+4fRAZAnEFoLPrMaMwfAkw7rWRBCHUTu3jKq6tNs=
+			zH3PPK2zb65RS/xlgLdhCv586NkmB2dzDnIsgx+zRSA=
 			</data>
 		</dict>
 		<key>PlayerLaunchIcon.bundle/player_launch_icon.png</key>
