@@ -2,6 +2,10 @@
 # MyGuideCreator iOS SDK
 A simple SDK that provides in-app guidance to improve in-app user engagement. It integrates seamlessly without the need to write code or do deployment. 
 
+### Ver 2.2.0
+ - Implemented new insights in SDK.
+ - Bug Fixes.
+ 
 ### Ver 2.1.0
  - Implemented Tooltip guides in SDK.
  - Implemented Tutorial guides in SDK.
