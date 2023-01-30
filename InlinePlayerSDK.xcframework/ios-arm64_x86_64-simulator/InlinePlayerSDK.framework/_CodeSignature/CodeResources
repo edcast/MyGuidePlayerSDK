@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/InlinePlayerSDK-Swift.h</key>
 		<data>
-		jzDH/DjYOB9YhN/+r8ghxmhMEjc=
+		U4I1rT5mIfEgqEHaIG33E3xKWQ0=
 		</data>
 		<key>Headers/InlinePlayerSDK.h</key>
 		<data>
@@ -254,11 +254,11 @@
 		</data>
 		<key>IPSDKShowMe.storyboardc/flo-E7-cet-view-nCc-wv-JVY.nib/objects-12.3+.nib</key>
 		<data>
-		ouE+4866Fwc9UHVu9oLF/XuhXeE=
+		JWVWh1+nLJb2LXzVXpxRVDzZsgs=
 		</data>
 		<key>IPSDKShowMe.storyboardc/flo-E7-cet-view-nCc-wv-JVY.nib/runtime.nib</key>
 		<data>
-		ouE+4866Fwc9UHVu9oLF/XuhXeE=
+		JWVWh1+nLJb2LXzVXpxRVDzZsgs=
 		</data>
 		<key>IPSDKShowMe.storyboardc/fsO-CL-z31-view-beJ-1C-3Zj.nib/objects-12.3+.nib</key>
 		<data>
@@ -278,7 +278,7 @@
 		</data>
 		<key>Modules/InlinePlayerSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		PNxEemrh50dTmMkVaozFqej3p68=
+		/XDNVPfGZVDcOVbAZkH09zcPBZY=
 		</data>
 		<key>Modules/InlinePlayerSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -294,11 +294,11 @@
 		</data>
 		<key>Modules/InlinePlayerSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		XrpyQEYradiAN30KfCVRRjfAl+s=
+		g4lual89BGp1UX1LIhvhLN89MCk=
 		</data>
 		<key>Modules/InlinePlayerSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		PNxEemrh50dTmMkVaozFqej3p68=
+		/XDNVPfGZVDcOVbAZkH09zcPBZY=
 		</data>
 		<key>Modules/InlinePlayerSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -314,7 +314,7 @@
 		</data>
 		<key>Modules/InlinePlayerSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		urzV2hKVcJrXG8uVFXe9SCmHnHs=
+		fHQ7BQXBJgJgPX85uv95vgDfAeI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -683,7 +683,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			neSUly9kQXUrQSSyKPfqO5FB0OBpAXSDDCS779N8auk=
+			4e1DFvznwH529BJqyk/xcznh3jHlkjLNTHOXTdsGTa4=
 			</data>
 		</dict>
 		<key>Headers/InlinePlayerSDK.h</key>
@@ -1117,14 +1117,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			TrXSB1rvrWVxDl5Jac6u6HBMjA5tQL9jFEgVkh0Emio=
+			XCnN5ZwH+73BPrUx7a+7cNV8GtPBroUgNMZ7xorfpt4=
 			</data>
 		</dict>
 		<key>IPSDKShowMe.storyboardc/flo-E7-cet-view-nCc-wv-JVY.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			TrXSB1rvrWVxDl5Jac6u6HBMjA5tQL9jFEgVkh0Emio=
+			XCnN5ZwH+73BPrUx7a+7cNV8GtPBroUgNMZ7xorfpt4=
 			</data>
 		</dict>
 		<key>IPSDKShowMe.storyboardc/fsO-CL-z31-view-beJ-1C-3Zj.nib/objects-12.3+.nib</key>
@@ -1152,7 +1152,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			BKSVAUDEgo+d8rZIGPBe7UzWprvrBVhAurUL8WRCCYk=
+			I85UO3eOJNgIcsVqr6ntKh7XhigEQt8EEPETFJqtZUE=
 			</data>
 		</dict>
 		<key>Modules/InlinePlayerSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -1180,14 +1180,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ku7q8B07CFQaCVOnqOItDBR3TiHxIsQiHgUCbFV03U0=
+			n4/5GlnAgz2CzEohChZr1vXj5UZ8xPe257ICofBt8RE=
 			</data>
 		</dict>
 		<key>Modules/InlinePlayerSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			BKSVAUDEgo+d8rZIGPBe7UzWprvrBVhAurUL8WRCCYk=
+			I85UO3eOJNgIcsVqr6ntKh7XhigEQt8EEPETFJqtZUE=
 			</data>
 		</dict>
 		<key>Modules/InlinePlayerSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -1215,7 +1215,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Q2IaSBl8v5mBi1ijEcKA5Ih8Ej3BmXh/r1u5ng40JrU=
+			Vow+/jXabagEw9HlCwEP2s8V124DP8G13IvWmAXR8c8=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
