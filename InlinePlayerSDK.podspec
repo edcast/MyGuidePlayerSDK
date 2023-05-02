@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
 
 s.name              =   "InlinePlayerSDK"
 
-s.version           =   "2.4.0"
+s.version           =   "2.5.0"
 
 s.summary           =   "Simple SDK for developers to integrate with their app and provide in-app guidance for their users."
 
@@ -10,7 +10,7 @@ s.description       =   "With just one line of code, MyGuide SDK helps provide i
 
 s.homepage          =   "https://www.myguide.org/"
 
-s.readme 	    = 	'https://github.com/edcast/MyGuidePlayerSDK/blob/master/README.md'
+s.readme 	    	= 	'https://github.com/edcast/MyGuidePlayerSDK/blob/master/README.md'
 
 s.changelog 	    = 	'https://github.com/edcast/MyGuidePlayerSDK/blob/master/CHANGELOG.md'
 
