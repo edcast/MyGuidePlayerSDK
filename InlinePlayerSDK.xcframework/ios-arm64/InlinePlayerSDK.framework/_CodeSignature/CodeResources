@@ -42,11 +42,11 @@
 		</data>
 		<key>IPSDKLogin.storyboardc/8VJ-ib-tTS-view-Rp1-bD-UGK.nib/objects-13.0+.nib</key>
 		<data>
-		i56qQBwfJEKFWkLi3EFQDQToak4=
+		AwdleEU3l8DJCx9I/Nry6yXQKJ0=
 		</data>
 		<key>IPSDKLogin.storyboardc/8VJ-ib-tTS-view-Rp1-bD-UGK.nib/runtime.nib</key>
 		<data>
-		s7o732iMMqMckawm/eo0IHujfb0=
+		EZ5F1wJvBhuFkgyCV69gUKVTK6s=
 		</data>
 		<key>IPSDKLogin.storyboardc/IPSDKForgotPasswordViewController.nib/objects-13.0+.nib</key>
 		<data>
@@ -78,19 +78,19 @@
 		</data>
 		<key>IPSDKLogin.storyboardc/cLg-xd-fXu-view-zPN-mh-2Y5.nib/objects-13.0+.nib</key>
 		<data>
-		Z9uEywPFZvgvW4MHpGPkDex4ux0=
+		Z28usH4W3ckMVMpwgrUY4Hb2HDY=
 		</data>
 		<key>IPSDKLogin.storyboardc/cLg-xd-fXu-view-zPN-mh-2Y5.nib/runtime.nib</key>
 		<data>
-		Z9uEywPFZvgvW4MHpGPkDex4ux0=
+		Z28usH4W3ckMVMpwgrUY4Hb2HDY=
 		</data>
 		<key>IPSDKLogin.storyboardc/mTU-qZ-tDE-view-pjz-F0-TMY.nib/objects-13.0+.nib</key>
 		<data>
-		bySckGfe421QDyhmp9+pPGhHTOI=
+		8AIvYss/VvSdzuWMzG3UPXYHWNw=
 		</data>
 		<key>IPSDKLogin.storyboardc/mTU-qZ-tDE-view-pjz-F0-TMY.nib/runtime.nib</key>
 		<data>
-		bySckGfe421QDyhmp9+pPGhHTOI=
+		8AIvYss/VvSdzuWMzG3UPXYHWNw=
 		</data>
 		<key>IPSDKPlayer.storyboardc/0uw-le-vGl-view-rWi-3c-L90.nib</key>
 		<data>
@@ -166,7 +166,7 @@
 		</data>
 		<key>IPSDKPlayer.storyboardc/Xno-lI-gok-view-JJN-Nj-uKQ.nib</key>
 		<data>
-		zKPPfFsf5jjEHZWlAk91dyyfX4o=
+		upSKypBsth4BmI/BZVLxK2JqZFw=
 		</data>
 		<key>IPSDKPlayer.storyboardc/cxI-w0-Y2M-view-Gdz-t2-wrq.nib</key>
 		<data>
@@ -274,11 +274,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		enpbC6MzUUdiurWqx0IG19nFGLU=
+		4hXpVBNOgjlTQuNfIER6WGcafl8=
 		</data>
 		<key>Modules/InlinePlayerSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		R+4IXiizqJi1++u11ltmblLpI/A=
+		ge87P6GJ18h3MZwR3c+QftAEKJA=
 		</data>
 		<key>Modules/InlinePlayerSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -294,7 +294,7 @@
 		</data>
 		<key>Modules/InlinePlayerSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		L5srQKyB34asnXwAxsWAt02yYy8=
+		Oo76AnoN4k7UV/57AeAGLtLDb8Y=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -726,14 +726,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			6qSddrDDRJUGeYWPTkapdRvey8NnblgzblfZWdEVhuk=
+			9R2MWm+97aykAm0PuY0MBHZu8z/sak7aWY0zqS7tlZY=
 			</data>
 		</dict>
 		<key>IPSDKLogin.storyboardc/8VJ-ib-tTS-view-Rp1-bD-UGK.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			BhHgfHNKEqQGXOT92wi5+IS6i26z9rcCc+sfjLxrd2g=
+			VO9k7uDYCVcq1p/LDwL0jyLsajdkcYu4h9Z2CdJ/o4U=
 			</data>
 		</dict>
 		<key>IPSDKLogin.storyboardc/IPSDKForgotPasswordViewController.nib/objects-13.0+.nib</key>
@@ -789,28 +789,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			6hkFX1B+xT6aXcSMTis2BzTLF9rA0W/lmc0mRSQbHWI=
+			U7z0Z5Kixs/wa8+61k21vmu3/1GBfaY+z7MQMSTA32M=
 			</data>
 		</dict>
 		<key>IPSDKLogin.storyboardc/cLg-xd-fXu-view-zPN-mh-2Y5.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6hkFX1B+xT6aXcSMTis2BzTLF9rA0W/lmc0mRSQbHWI=
+			U7z0Z5Kixs/wa8+61k21vmu3/1GBfaY+z7MQMSTA32M=
 			</data>
 		</dict>
 		<key>IPSDKLogin.storyboardc/mTU-qZ-tDE-view-pjz-F0-TMY.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Gmiw6EDZvZXeD/4S+5HQICzvCqnmH50drDDCs5iQTV4=
+			BgjQZl2CGvEcG38Eg1VxbVredL3qyGwKswoK5zUz7Ag=
 			</data>
 		</dict>
 		<key>IPSDKLogin.storyboardc/mTU-qZ-tDE-view-pjz-F0-TMY.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Gmiw6EDZvZXeD/4S+5HQICzvCqnmH50drDDCs5iQTV4=
+			BgjQZl2CGvEcG38Eg1VxbVredL3qyGwKswoK5zUz7Ag=
 			</data>
 		</dict>
 		<key>IPSDKPlayer.storyboardc/0uw-le-vGl-view-rWi-3c-L90.nib</key>
@@ -943,7 +943,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZOuVV7PqBckpzx/dEYtFYsPJE1aB3o2dADJE5+lgq1s=
+			njopoBSze6mZjhMmr4zA2C6ihhCogsLOgo/noS7wYgE=
 			</data>
 		</dict>
 		<key>IPSDKPlayer.storyboardc/cxI-w0-Y2M-view-Gdz-t2-wrq.nib</key>
@@ -1132,7 +1132,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			6YUfb6iuLhmVaTzk02cPM8PMXZEqx2ZHyllBr2xp4zI=
+			EPENjBYWO0tH2aNVFVYG+7hY302I6MyJJ7iEk1iaQfk=
 			</data>
 		</dict>
 		<key>Modules/InlinePlayerSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -1160,7 +1160,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			h1VlDpXJAMjKSQsqDC+LRlbLoP7j5zJ9/ux06VTNooM=
+			Apfq7BLOQn/iCEe+KNmRC1croU7ExZzUBhCE3PLsapw=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

@@ -10580,511 +10580,511 @@
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Tooltip\/EasyTipView.swift",
       "kind": "Array",
-      "offset": 12552,
+      "offset": 12554,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Tooltip\/EasyTipView.swift",
       "kind": "BooleanLiteral",
-      "offset": 14133,
+      "offset": 14135,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Tooltip\/EasyTipView.swift",
       "kind": "BooleanLiteral",
-      "offset": 14160,
+      "offset": 14162,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Tooltip\/EasyTipView.swift",
       "kind": "FloatLiteral",
-      "offset": 15055,
+      "offset": 15057,
       "length": 4,
       "value": "30.0"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Tooltip\/EasyTipView.swift",
       "kind": "FloatLiteral",
-      "offset": 15737,
+      "offset": 15739,
       "length": 4,
       "value": "30.0"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Tooltip\/EasyTipView.swift",
       "kind": "FloatLiteral",
-      "offset": 15974,
+      "offset": 15976,
       "length": 4,
       "value": "30.0"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Tooltip\/EasyTipView.swift",
       "kind": "IntegerLiteral",
-      "offset": 16195,
+      "offset": 16197,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Tooltip\/EasyTipView.swift",
       "kind": "IntegerLiteral",
-      "offset": 16238,
+      "offset": 16240,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Tooltip\/EasyTipView.swift",
       "kind": "IntegerLiteral",
-      "offset": 16343,
+      "offset": 16345,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Tooltip\/EasyTipView.swift",
       "kind": "IntegerLiteral",
-      "offset": 16386,
+      "offset": 16388,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Tooltip\/EasyTipView.swift",
       "kind": "BooleanLiteral",
-      "offset": 16715,
+      "offset": 16717,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Tooltip\/EasyTipView.swift",
       "kind": "BooleanLiteral",
-      "offset": 16742,
+      "offset": 16744,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Tooltip\/EasyTipView.swift",
       "kind": "StringLiteral",
-      "offset": 17281,
+      "offset": 17283,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Tooltip\/EasyTipView.swift",
       "kind": "BooleanLiteral",
-      "offset": 17396,
+      "offset": 17398,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Tooltip\/EasyTipView.swift",
       "kind": "BooleanLiteral",
-      "offset": 17613,
+      "offset": 17615,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Tooltip\/EasyTipView.swift",
       "kind": "BooleanLiteral",
-      "offset": 17640,
+      "offset": 17642,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Tooltip\/EasyTipView.swift",
       "kind": "IntegerLiteral",
-      "offset": 18346,
+      "offset": 18348,
       "length": 2,
       "value": "40"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Tooltip\/EasyTipView.swift",
       "kind": "IntegerLiteral",
-      "offset": 18358,
+      "offset": 18360,
       "length": 2,
       "value": "40"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Tooltip\/EasyTipView.swift",
       "kind": "StringLiteral",
-      "offset": 19550,
+      "offset": 19552,
       "length": 72,
       "value": "\"NSCoding not supported. Use init(text, preferences, delegate) instead!\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Tooltip\/EasyTipView.swift",
       "kind": "FloatLiteral",
-      "offset": 19842,
+      "offset": 19844,
       "length": 3,
       "value": "0.3"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Tooltip\/EasyTipView.swift",
       "kind": "IntegerLiteral",
-      "offset": 20425,
+      "offset": 20430,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Tooltip\/EasyTipView.swift",
       "kind": "IntegerLiteral",
-      "offset": 20458,
+      "offset": 20463,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Tooltip\/EasyTipView.swift",
       "kind": "IntegerLiteral",
-      "offset": 20586,
+      "offset": 20591,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Tooltip\/EasyTipView.swift",
       "kind": "IntegerLiteral",
-      "offset": 20735,
+      "offset": 20740,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Tooltip\/EasyTipView.swift",
       "kind": "IntegerLiteral",
-      "offset": 20940,
+      "offset": 20945,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Tooltip\/EasyTipView.swift",
       "kind": "IntegerLiteral",
-      "offset": 21087,
+      "offset": 21092,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Tooltip\/EasyTipView.swift",
       "kind": "IntegerLiteral",
-      "offset": 21469,
+      "offset": 21474,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Tooltip\/EasyTipView.swift",
       "kind": "IntegerLiteral",
-      "offset": 21496,
+      "offset": 21501,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Tooltip\/EasyTipView.swift",
       "kind": "IntegerLiteral",
-      "offset": 21736,
+      "offset": 21741,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Tooltip\/EasyTipView.swift",
       "kind": "BooleanLiteral",
-      "offset": 22786,
+      "offset": 22791,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Tooltip\/EasyTipView.swift",
       "kind": "StringLiteral",
-      "offset": 23332,
+      "offset": 23337,
       "length": 235,
       "value": "\"[EasyTipView - Info] The arrow position you chose <\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Tooltip\/EasyTipView.swift",
       "kind": "StringLiteral",
-      "offset": 23395,
+      "offset": 23400,
       "length": 1,
       "value": "\"> could not be applied. Instead, position <\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Tooltip\/EasyTipView.swift",
       "kind": "StringLiteral",
-      "offset": 23446,
+      "offset": 23451,
       "length": 1,
       "value": "\"> has been applied! Please specify position <\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Tooltip\/EasyTipView.swift",
       "kind": "StringLiteral",
-      "offset": 23511,
+      "offset": 23516,
       "length": 1,
       "value": "\"> if you want EasyTipView to choose a position for you.\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Tooltip\/EasyTipView.swift",
       "kind": "IntegerLiteral",
-      "offset": 24497,
+      "offset": 24504,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Tooltip\/EasyTipView.swift",
       "kind": "IntegerLiteral",
-      "offset": 24607,
+      "offset": 24614,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Tooltip\/EasyTipView.swift",
       "kind": "IntegerLiteral",
-      "offset": 24946,
+      "offset": 24953,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Tooltip\/EasyTipView.swift",
       "kind": "IntegerLiteral",
-      "offset": 25057,
+      "offset": 25064,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Tooltip\/EasyTipView.swift",
       "kind": "StringLiteral",
-      "offset": 26544,
+      "offset": 26555,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Tooltip\/EasyTipView.swift",
       "kind": "IntegerLiteral",
-      "offset": 27164,
+      "offset": 27175,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Tooltip\/EasyTipView.swift",
       "kind": "IntegerLiteral",
-      "offset": 27211,
+      "offset": 27222,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Tooltip\/EasyTipView.swift",
       "kind": "IntegerLiteral",
-      "offset": 27216,
+      "offset": 27227,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Tooltip\/EasyTipView.swift",
       "kind": "IntegerLiteral",
-      "offset": 27578,
+      "offset": 27589,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Tooltip\/EasyTipView.swift",
       "kind": "IntegerLiteral",
-      "offset": 27625,
+      "offset": 27636,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Tooltip\/EasyTipView.swift",
       "kind": "IntegerLiteral",
-      "offset": 27630,
+      "offset": 27641,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Tooltip\/EasyTipView.swift",
       "kind": "IntegerLiteral",
-      "offset": 27790,
+      "offset": 27801,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Tooltip\/EasyTipView.swift",
       "kind": "IntegerLiteral",
-      "offset": 27795,
+      "offset": 27806,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Tooltip\/EasyTipView.swift",
       "kind": "IntegerLiteral",
-      "offset": 27842,
+      "offset": 27853,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Tooltip\/EasyTipView.swift",
       "kind": "IntegerLiteral",
-      "offset": 28228,
+      "offset": 28239,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Tooltip\/EasyTipView.swift",
       "kind": "IntegerLiteral",
-      "offset": 28233,
+      "offset": 28244,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Tooltip\/EasyTipView.swift",
       "kind": "IntegerLiteral",
-      "offset": 28280,
+      "offset": 28291,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Tooltip\/EasyTipView.swift",
       "kind": "BooleanLiteral",
-      "offset": 33216,
+      "offset": 33227,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Tooltip\/EasyTipView.swift",
       "kind": "BooleanLiteral",
-      "offset": 34131,
+      "offset": 34142,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Tooltip\/EasyTipView.swift",
       "kind": "IntegerLiteral",
-      "offset": 34282,
+      "offset": 34293,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Tooltip\/EasyTipView.swift",
       "kind": "BooleanLiteral",
-      "offset": 34296,
+      "offset": 34307,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Tooltip\/EasyTipView.swift",
       "kind": "BooleanLiteral",
-      "offset": 34470,
+      "offset": 34481,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Tooltip\/EasyTipView.swift",
       "kind": "BooleanLiteral",
-      "offset": 34647,
+      "offset": 34658,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Tooltip\/EasyTipView.swift",
       "kind": "BooleanLiteral",
-      "offset": 34784,
+      "offset": 34795,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Tooltip\/EasyTipView.swift",
       "kind": "BooleanLiteral",
-      "offset": 34952,
+      "offset": 34963,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Tooltip\/EasyTipView.swift",
       "kind": "FloatLiteral",
-      "offset": 35021,
+      "offset": 35032,
       "length": 4,
       "value": "40.0"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Tooltip\/EasyTipView.swift",
       "kind": "BooleanLiteral",
-      "offset": 35038,
+      "offset": 35049,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Tooltip\/EasyTipView.swift",
       "kind": "FloatLiteral",
-      "offset": 35105,
+      "offset": 35116,
       "length": 4,
       "value": "40.0"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Tooltip\/EasyTipView.swift",
       "kind": "BooleanLiteral",
-      "offset": 35122,
+      "offset": 35133,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Tooltip\/EasyTipView.swift",
       "kind": "IntegerLiteral",
-      "offset": 35212,
+      "offset": 35223,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Tooltip\/EasyTipView.swift",
       "kind": "BooleanLiteral",
-      "offset": 35226,
+      "offset": 35237,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Tooltip\/EasyTipView.swift",
       "kind": "IntegerLiteral",
-      "offset": 35317,
+      "offset": 35328,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Tooltip\/EasyTipView.swift",
       "kind": "BooleanLiteral",
-      "offset": 35331,
+      "offset": 35342,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Tooltip\/EasyTipView.swift",
       "kind": "IntegerLiteral",
-      "offset": 35877,
+      "offset": 35888,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Tooltip\/EasyTipView.swift",
       "kind": "IntegerLiteral",
-      "offset": 35966,
+      "offset": 35977,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Tooltip\/EasyTipView.swift",
       "kind": "IntegerLiteral",
-      "offset": 36371,
+      "offset": 36382,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Tooltip\/EasyTipView.swift",
       "kind": "IntegerLiteral",
-      "offset": 36494,
+      "offset": 36505,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Tooltip\/EasyTipView.swift",
       "kind": "IntegerLiteral",
-      "offset": 37085,
+      "offset": 37096,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Tooltip\/EasyTipView.swift",
       "kind": "IntegerLiteral",
-      "offset": 37185,
+      "offset": 37196,
       "length": 1,
       "value": "2"
     },
@@ -14110,7 +14110,7 @@
       "kind": "StringLiteral",
       "offset": 3516,
       "length": 7,
-      "value": "\"2.5.0\""
+      "value": "\"2.6.0\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Helpers\/ICPSDKConfiguration.swift",
@@ -18672,51 +18672,37 @@
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 3641,
+      "offset": 3639,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 3668,
+      "offset": 3666,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "StringLiteral",
-      "offset": 4711,
+      "offset": 4709,
       "length": 5,
       "value": "\"MG_\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "StringLiteral",
-      "offset": 4724,
+      "offset": 4722,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "StringLiteral",
-      "offset": 4752,
+      "offset": 4750,
       "length": 3,
       "value": "\".\""
-    },
-    {
-      "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
-      "kind": "StringLiteral",
-      "offset": 4809,
-      "length": 45,
-      "value": "\"splitedIndentifiers: \""
-    },
-    {
-      "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
-      "kind": "StringLiteral",
-      "offset": 4853,
-      "length": 24,
-      "value": "\"\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
@@ -18728,1925 +18714,1904 @@
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "StringLiteral",
-      "offset": 5025,
-      "length": 80,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
-      "kind": "StringLiteral",
-      "offset": 5038,
-      "length": 5,
-      "value": "\" After remove UIWindow splitedIndentifiers: \""
-    },
-    {
-      "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
-      "kind": "StringLiteral",
-      "offset": 5104,
-      "length": 24,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
-      "kind": "StringLiteral",
-      "offset": 5501,
+      "offset": 5503,
       "length": 3,
       "value": "\"-\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "IntegerLiteral",
-      "offset": 5570,
+      "offset": 5572,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 5628,
+      "offset": 5630,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "StringLiteral",
-      "offset": 5802,
-      "length": 75,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
-      "kind": "StringLiteral",
-      "offset": 5815,
-      "length": 10,
-      "value": "\" targetView: \""
-    },
-    {
-      "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
-      "kind": "StringLiteral",
-      "offset": 5876,
-      "length": 24,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
-      "kind": "StringLiteral",
-      "offset": 6048,
+      "offset": 5898,
       "length": 60,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "StringLiteral",
-      "offset": 6061,
+      "offset": 5911,
       "length": 4,
       "value": "\" find targetView inside the Custome identifier\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "StringLiteral",
-      "offset": 6691,
+      "offset": 6541,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "StringLiteral",
-      "offset": 6785,
+      "offset": 6635,
       "length": 15,
       "value": "\"AnimationView\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "IntegerLiteral",
-      "offset": 7611,
+      "offset": 7460,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "IntegerLiteral",
-      "offset": 7948,
+      "offset": 7797,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 8090,
+      "offset": 7939,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "IntegerLiteral",
-      "offset": 13097,
+      "offset": 12944,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 13493,
+      "offset": 13340,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 13520,
+      "offset": 13367,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 13714,
+      "offset": 13561,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 13741,
+      "offset": 13588,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 14324,
+      "offset": 14171,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 14351,
+      "offset": 14198,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 14901,
+      "offset": 14748,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 15085,
+      "offset": 14932,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 15112,
+      "offset": 14959,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 15327,
+      "offset": 15174,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 15354,
+      "offset": 15201,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 15958,
+      "offset": 15805,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 15985,
+      "offset": 15832,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "IntegerLiteral",
-      "offset": 16919,
+      "offset": 16766,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "IntegerLiteral",
-      "offset": 18313,
+      "offset": 18158,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 18917,
+      "offset": 18762,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 18944,
+      "offset": 18789,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 19146,
+      "offset": 18991,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 19173,
+      "offset": 19018,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 19665,
+      "offset": 19510,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 19692,
+      "offset": 19537,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 20534,
+      "offset": 20379,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 20945,
+      "offset": 20790,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 20972,
+      "offset": 20817,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 21199,
+      "offset": 21044,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 21226,
+      "offset": 21071,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 21743,
+      "offset": 21588,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 21770,
+      "offset": 21615,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "StringLiteral",
-      "offset": 22818,
+      "offset": 22662,
       "length": 29,
       "value": "\"UIPickerTableViewTitledCell\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 23245,
+      "offset": 23089,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 23662,
+      "offset": 23506,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 23901,
+      "offset": 23745,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "IntegerLiteral",
-      "offset": 24368,
+      "offset": 24212,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "IntegerLiteral",
-      "offset": 24400,
+      "offset": 24244,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 24438,
+      "offset": 24282,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "IntegerLiteral",
-      "offset": 24689,
+      "offset": 24533,
       "length": 1,
       "value": "0"
+    },
+    {
+      "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
+      "kind": "IntegerLiteral",
+      "offset": 24545,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
+      "kind": "BooleanLiteral",
+      "offset": 24617,
+      "length": 4,
+      "value": "true"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "IntegerLiteral",
       "offset": 24701,
       "length": 1,
-      "value": "0"
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
+      "kind": "IntegerLiteral",
+      "offset": 24826,
+      "length": 1,
+      "value": "1"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 24773,
+      "offset": 24916,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "IntegerLiteral",
-      "offset": 24857,
+      "offset": 25009,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "IntegerLiteral",
-      "offset": 24982,
+      "offset": 25082,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 25072,
+      "offset": 25227,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "IntegerLiteral",
-      "offset": 25165,
-      "length": 1,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
-      "kind": "IntegerLiteral",
-      "offset": 25238,
-      "length": 1,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
-      "kind": "BooleanLiteral",
-      "offset": 25383,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
-      "kind": "IntegerLiteral",
-      "offset": 25421,
+      "offset": 25265,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "IntegerLiteral",
-      "offset": 25454,
+      "offset": 25298,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "IntegerLiteral",
-      "offset": 26107,
+      "offset": 25951,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 26214,
+      "offset": 26058,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "IntegerLiteral",
-      "offset": 26762,
+      "offset": 26606,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "IntegerLiteral",
-      "offset": 26811,
+      "offset": 26655,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 29223,
+      "offset": 29071,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 30542,
+      "offset": 30256,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "StringLiteral",
-      "offset": 30953,
+      "offset": 30623,
       "length": 59,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "StringLiteral",
-      "offset": 30966,
+      "offset": 30636,
       "length": 4,
       "value": "\" Find target view in findElementInTableView()\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 31202,
+      "offset": 30872,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 31691,
+      "offset": 31361,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "IntegerLiteral",
-      "offset": 31924,
+      "offset": 31594,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "IntegerLiteral",
-      "offset": 32049,
+      "offset": 31719,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 32139,
+      "offset": 31809,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 33339,
+      "offset": 33009,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "StringLiteral",
-      "offset": 33411,
+      "offset": 33081,
       "length": 94,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "StringLiteral",
-      "offset": 33424,
+      "offset": 33094,
       "length": 4,
       "value": "\" Find target view in findElementInVisibleTableViewCells() visibleSectionHeaders \""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "IntegerLiteral",
-      "offset": 35261,
+      "offset": 34929,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 35775,
+      "offset": 35443,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 35886,
+      "offset": 35554,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "StringLiteral",
-      "offset": 36661,
+      "offset": 36333,
       "length": 85,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "StringLiteral",
-      "offset": 36674,
+      "offset": 36346,
       "length": 4,
       "value": "\" Find target view in findElementInVisibleTableViewCells() visibleCells \""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "IntegerLiteral",
-      "offset": 38034,
+      "offset": 37706,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 38168,
+      "offset": 37840,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "StringLiteral",
-      "offset": 38258,
+      "offset": 37930,
       "length": 68,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "StringLiteral",
-      "offset": 38271,
+      "offset": 37943,
       "length": 4,
       "value": "\" Find target view in findElementInVisibleScrollView() \""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 38594,
+      "offset": 38266,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "IntegerLiteral",
-      "offset": 39948,
+      "offset": 39620,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 40672,
+      "offset": 40344,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "StringLiteral",
-      "offset": 40784,
+      "offset": 40456,
       "length": 68,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "StringLiteral",
-      "offset": 40797,
+      "offset": 40469,
       "length": 4,
       "value": "\" Find target view in findElementInVisibleScrollView() \""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 41878,
+      "offset": 41550,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 41932,
+      "offset": 41604,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "IntegerLiteral",
-      "offset": 42577,
+      "offset": 42249,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 42636,
+      "offset": 42308,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "StringLiteral",
-      "offset": 42807,
+      "offset": 42479,
       "length": 81,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "StringLiteral",
-      "offset": 42820,
+      "offset": 42492,
       "length": 4,
       "value": "\" Find target view in findCollectionElementInVisibleTableViewCells()\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "StringLiteral",
-      "offset": 43184,
+      "offset": 42856,
       "length": 49,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "StringLiteral",
-      "offset": 43197,
+      "offset": 42869,
       "length": 27,
       "value": "\" findElementInCollectionView Called\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 43511,
+      "offset": 43183,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 43719,
+      "offset": 43391,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 43798,
+      "offset": 43470,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 43962,
+      "offset": 43634,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 44000,
+      "offset": 43672,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 44601,
+      "offset": 44273,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 44809,
+      "offset": 44481,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 44888,
+      "offset": 44560,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 45052,
+      "offset": 44724,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 45090,
+      "offset": 44762,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "IntegerLiteral",
-      "offset": 45604,
+      "offset": 45276,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "IntegerLiteral",
-      "offset": 45692,
+      "offset": 45364,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 46119,
+      "offset": 45791,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "StringLiteral",
-      "offset": 46343,
+      "offset": 46015,
       "length": 60,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "StringLiteral",
-      "offset": 46356,
+      "offset": 46028,
       "length": 9,
       "value": "\" scrolling: \""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "StringLiteral",
-      "offset": 46385,
+      "offset": 46057,
       "length": 2,
       "value": "\" to rect: \""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "StringLiteral",
-      "offset": 46402,
+      "offset": 46074,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 46484,
+      "offset": 46156,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 46723,
+      "offset": 46395,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 47206,
+      "offset": 46878,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "IntegerLiteral",
-      "offset": 47765,
+      "offset": 47437,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "IntegerLiteral",
-      "offset": 47803,
+      "offset": 47475,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "IntegerLiteral",
-      "offset": 47830,
+      "offset": 47502,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "IntegerLiteral",
-      "offset": 47885,
+      "offset": 47557,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "StringLiteral",
-      "offset": 48181,
+      "offset": 47853,
       "length": 61,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "StringLiteral",
-      "offset": 48194,
+      "offset": 47866,
       "length": 31,
       "value": "\" IsCellMatchesWithCollectionView : \""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "StringLiteral",
-      "offset": 48241,
+      "offset": 47913,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 48327,
+      "offset": 47999,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 48420,
+      "offset": 48092,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 48579,
+      "offset": 48251,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 50401,
+      "offset": 50073,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "StringLiteral",
-      "offset": 50734,
+      "offset": 50406,
       "length": 73,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "StringLiteral",
-      "offset": 50747,
+      "offset": 50419,
       "length": 4,
       "value": "\" Find target view in findElementInVisibleCollectionCells() \""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 50982,
+      "offset": 50654,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 52425,
+      "offset": 52097,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "IntegerLiteral",
-      "offset": 52808,
+      "offset": 52480,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "IntegerLiteral",
-      "offset": 52892,
+      "offset": 52564,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 53119,
+      "offset": 52791,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 53268,
+      "offset": 52940,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 53385,
+      "offset": 53057,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 53459,
+      "offset": 53131,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "IntegerLiteral",
-      "offset": 53637,
+      "offset": 53309,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "IntegerLiteral",
-      "offset": 53675,
+      "offset": 53347,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "IntegerLiteral",
-      "offset": 53734,
+      "offset": 53406,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 54715,
+      "offset": 54387,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 54800,
+      "offset": 54472,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 54868,
+      "offset": 54540,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "IntegerLiteral",
-      "offset": 56138,
+      "offset": 55810,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "IntegerLiteral",
-      "offset": 56169,
+      "offset": 55841,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "IntegerLiteral",
-      "offset": 56189,
+      "offset": 55861,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 59463,
+      "offset": 59135,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 59556,
+      "offset": 59228,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 59632,
+      "offset": 59304,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "StringLiteral",
-      "offset": 60958,
+      "offset": 60630,
       "length": 67,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "StringLiteral",
-      "offset": 60971,
+      "offset": 60643,
       "length": 4,
       "value": "\" Find target view in findElementInSubCollectionView()\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "StringLiteral",
-      "offset": 63222,
+      "offset": 63056,
       "length": 16,
       "value": "\"UITabBarButton\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "StringLiteral",
-      "offset": 63540,
+      "offset": 63374,
       "length": 20,
       "value": "\"_UIButtonBarButton\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "StringLiteral",
-      "offset": 63702,
+      "offset": 63536,
       "length": 22,
       "value": "\"UISearchBarTextField\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "StringLiteral",
-      "offset": 63748,
+      "offset": 63582,
       "length": 25,
       "value": "\"_UISearchBarFieldEditor\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "StringLiteral",
-      "offset": 63922,
+      "offset": 63756,
       "length": 15,
       "value": "\"AnimationView\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "StringLiteral",
-      "offset": 65470,
+      "offset": 65304,
       "length": 56,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "StringLiteral",
-      "offset": 65483,
+      "offset": 65317,
       "length": 4,
       "value": "\" find target view in findUISliderElement()\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
+      "kind": "BooleanLiteral",
+      "offset": 65848,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "StringLiteral",
-      "offset": 66589,
+      "offset": 65922,
+      "length": 37,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
+      "kind": "StringLiteral",
+      "offset": 65935,
+      "length": 12,
+      "value": "\" UIPickerView NOT Found\""
+    },
+    {
+      "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
+      "kind": "StringLiteral",
+      "offset": 66044,
+      "length": 56,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
+      "kind": "StringLiteral",
+      "offset": 66057,
+      "length": 4,
+      "value": "\" find target view in findUITabBarElement()\""
+    },
+    {
+      "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
+      "kind": "StringLiteral",
+      "offset": 67153,
       "length": 57,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "StringLiteral",
-      "offset": 66602,
+      "offset": 67166,
       "length": 4,
       "value": "\" find target view in findUIStepperElement()\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "StringLiteral",
-      "offset": 67697,
+      "offset": 68261,
       "length": 56,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "StringLiteral",
-      "offset": 67710,
+      "offset": 68274,
       "length": 4,
       "value": "\" find target view in findUISwitchElement()\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "Array",
-      "offset": 68117,
+      "offset": 68681,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "IntegerLiteral",
-      "offset": 68445,
+      "offset": 69009,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 68555,
+      "offset": 69119,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "IntegerLiteral",
-      "offset": 69027,
+      "offset": 69591,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 69145,
+      "offset": 69709,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "StringLiteral",
-      "offset": 69513,
+      "offset": 70077,
       "length": 54,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "StringLiteral",
-      "offset": 69526,
+      "offset": 70090,
       "length": 4,
       "value": "\" find target view in findUIViewElement()\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "StringLiteral",
-      "offset": 70490,
+      "offset": 71054,
       "length": 59,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "StringLiteral",
-      "offset": 70503,
+      "offset": 71067,
       "length": 4,
       "value": "\" find target view in findCustomeViewElement()\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "FloatLiteral",
-      "offset": 70824,
+      "offset": 71388,
       "length": 4,
       "value": "0.01"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 70887,
+      "offset": 71451,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 71596,
+      "offset": 72160,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 72318,
+      "offset": 72882,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 72805,
+      "offset": 73369,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 72861,
+      "offset": 73425,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "FloatLiteral",
-      "offset": 73197,
+      "offset": 73761,
       "length": 4,
       "value": "0.01"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 73260,
+      "offset": 73824,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 73872,
+      "offset": 74436,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 74527,
+      "offset": 75091,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 74583,
+      "offset": 75147,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "StringLiteral",
-      "offset": 75310,
+      "offset": 75874,
       "length": 55,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "StringLiteral",
-      "offset": 75323,
+      "offset": 75887,
       "length": 4,
       "value": "\" find target view in findUILabelElement()\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 76202,
+      "offset": 76766,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "StringLiteral",
-      "offset": 76397,
+      "offset": 76961,
       "length": 56,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "StringLiteral",
-      "offset": 76410,
+      "offset": 76974,
       "length": 4,
       "value": "\" find target view in findUIButtonElement()\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 77511,
+      "offset": 78075,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "StringLiteral",
-      "offset": 77713,
+      "offset": 78277,
       "length": 71,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "StringLiteral",
-      "offset": 77726,
+      "offset": 78290,
       "length": 4,
       "value": "\" find target view in findUIButtonElementOnNavigationBar()\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 78242,
+      "offset": 78806,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "StringLiteral",
-      "offset": 78443,
+      "offset": 79007,
       "length": 56,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "StringLiteral",
-      "offset": 78456,
+      "offset": 79020,
       "length": 4,
       "value": "\" find target view in findUITabBarElement()\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 79344,
+      "offset": 79908,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "StringLiteral",
-      "offset": 79545,
+      "offset": 80109,
       "length": 62,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "StringLiteral",
-      "offset": 79558,
+      "offset": 80122,
       "length": 4,
       "value": "\" find target view in findUITabBarButtonElement()\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "IntegerLiteral",
-      "offset": 80473,
+      "offset": 81037,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "IntegerLiteral",
-      "offset": 81653,
+      "offset": 82217,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 82812,
+      "offset": 83376,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "StringLiteral",
-      "offset": 83013,
+      "offset": 83577,
       "length": 61,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "StringLiteral",
-      "offset": 83026,
+      "offset": 83590,
       "length": 4,
       "value": "\" find target view in findUITabBarItemSubViews()\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "IntegerLiteral",
-      "offset": 83969,
+      "offset": 84533,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "IntegerLiteral",
-      "offset": 85149,
+      "offset": 85713,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 86308,
+      "offset": 86872,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "StringLiteral",
-      "offset": 86510,
+      "offset": 87074,
       "length": 63,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "StringLiteral",
-      "offset": 86523,
+      "offset": 87087,
       "length": 4,
       "value": "\" find target view in findUINavigationBarElement()\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "StringLiteral",
-      "offset": 88463,
+      "offset": 89027,
       "length": 68,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "StringLiteral",
-      "offset": 88476,
+      "offset": 89040,
       "length": 4,
       "value": "\" find target view in findUISearchBarTextFieldElement()\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "IntegerLiteral",
-      "offset": 89000,
+      "offset": 89564,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 89266,
+      "offset": 89830,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 89414,
+      "offset": 89978,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 89482,
+      "offset": 90046,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "StringLiteral",
-      "offset": 89704,
+      "offset": 90268,
       "length": 59,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "StringLiteral",
-      "offset": 89717,
+      "offset": 90281,
       "length": 4,
       "value": "\" find target view in findUITextFieldElement()\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "IntegerLiteral",
-      "offset": 90258,
+      "offset": 90822,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "StringLiteral",
-      "offset": 90311,
+      "offset": 90875,
       "length": 64,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "StringLiteral",
-      "offset": 90324,
+      "offset": 90888,
       "length": 4,
       "value": "\" find target view in findUITextViewElement() first\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 90733,
+      "offset": 91297,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 90840,
+      "offset": 91404,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 91055,
+      "offset": 91619,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 91235,
+      "offset": 91799,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 91303,
+      "offset": 91867,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "StringLiteral",
-      "offset": 91585,
+      "offset": 92149,
       "length": 64,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "StringLiteral",
-      "offset": 91598,
+      "offset": 92162,
       "length": 4,
       "value": "\" find target view in findUITextViewElement() first\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "StringLiteral",
-      "offset": 92544,
+      "offset": 93108,
       "length": 71,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "StringLiteral",
-      "offset": 92557,
+      "offset": 93121,
       "length": 4,
       "value": "\" find target view in findViewOnTextViewSubViewsWithText()\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "IntegerLiteral",
-      "offset": 93282,
+      "offset": 93846,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "IntegerLiteral",
-      "offset": 93339,
+      "offset": 93903,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "IntegerLiteral",
-      "offset": 93380,
+      "offset": 93944,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "StringLiteral",
-      "offset": 93730,
+      "offset": 94294,
       "length": 72,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "StringLiteral",
-      "offset": 93743,
+      "offset": 94307,
       "length": 4,
       "value": "\" find target view in findViewOnTextViewSuperViewWithText()\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "IntegerLiteral",
-      "offset": 94257,
+      "offset": 94821,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "StringLiteral",
-      "offset": 94310,
+      "offset": 94874,
       "length": 58,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "StringLiteral",
-      "offset": 94323,
+      "offset": 94887,
       "length": 4,
       "value": "\" find target view in findUITableView() first\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "IntegerLiteral",
-      "offset": 94979,
+      "offset": 95543,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "StringLiteral",
-      "offset": 95032,
+      "offset": 95596,
       "length": 63,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "StringLiteral",
-      "offset": 95045,
+      "offset": 95609,
       "length": 4,
       "value": "\" find target view in findUICollectionView() first\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "IntegerLiteral",
-      "offset": 95800,
+      "offset": 96364,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 95910,
+      "offset": 96474,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "IntegerLiteral",
-      "offset": 96373,
+      "offset": 96937,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 96491,
+      "offset": 97055,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "StringLiteral",
-      "offset": 96912,
+      "offset": 97476,
       "length": 56,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "StringLiteral",
-      "offset": 96925,
+      "offset": 97489,
       "length": 4,
       "value": "\" find target view in findViewOnKeywindow()\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 97443,
+      "offset": 98007,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 97515,
+      "offset": 98079,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "IntegerLiteral",
-      "offset": 97578,
+      "offset": 98142,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "IntegerLiteral",
-      "offset": 97657,
+      "offset": 98221,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "FloatLiteral",
-      "offset": 97720,
+      "offset": 98284,
       "length": 4,
       "value": "0.01"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 98048,
+      "offset": 98612,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 98239,
+      "offset": 98803,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 98403,
+      "offset": 98967,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "StringLiteral",
-      "offset": 98649,
+      "offset": 99213,
       "length": 59,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "StringLiteral",
-      "offset": 98662,
+      "offset": 99226,
       "length": 4,
       "value": "\" find target view in findUIButtonInsideView()\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 99453,
+      "offset": 100017,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "StringLiteral",
-      "offset": 99718,
+      "offset": 100282,
       "length": 64,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "StringLiteral",
-      "offset": 99731,
+      "offset": 100295,
       "length": 4,
       "value": "\" find target view in findViewOnTableViewWithText()\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "StringLiteral",
-      "offset": 100665,
+      "offset": 101229,
       "length": 71,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "StringLiteral",
-      "offset": 100678,
+      "offset": 101242,
       "length": 4,
       "value": "\" find target view in findViewOnTableViewWithIdentifiers()\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "StringLiteral",
-      "offset": 101601,
+      "offset": 102165,
       "length": 76,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "StringLiteral",
-      "offset": 101614,
+      "offset": 102178,
       "length": 4,
       "value": "\" find target view in findViewOnTableViewSecondarySubViewText()\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "StringLiteral",
-      "offset": 102126,
+      "offset": 102690,
       "length": 18,
       "value": "\"_UIStepperButton\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "IntegerLiteral",
-      "offset": 102933,
+      "offset": 103497,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
-      "kind": "StringLiteral",
-      "offset": 102990,
-      "length": 35,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
-      "kind": "StringLiteral",
-      "offset": 103003,
-      "length": 20,
-      "value": "\" filterActionableView\""
-    },
-    {
-      "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "FloatLiteral",
-      "offset": 103470,
+      "offset": 104036,
       "length": 4,
       "value": "0.01"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 103533,
+      "offset": 104099,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 103589,
+      "offset": 104155,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "BooleanLiteral",
-      "offset": 103771,
+      "offset": 104337,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "StringLiteral",
-      "offset": 104068,
+      "offset": 104634,
       "length": 57,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerViewFinder.swift",
       "kind": "StringLiteral",
-      "offset": 104081,
+      "offset": 104647,
       "length": 4,
       "value": "\" find target view in filterActionableView()\""
     },
@@ -25078,162 +25043,162 @@
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKPlayerInlineStepViewController.swift",
       "kind": "StringLiteral",
       "offset": 2951,
-      "length": 81,
-      "value": "\"===>\n    finish Inline display at: \""
+      "length": 76,
+      "value": "\"===> finish Inline display at: \""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKPlayerInlineStepViewController.swift",
       "kind": "StringLiteral",
-      "offset": 3028,
+      "offset": 3023,
       "length": 1,
       "value": "\" \n\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKPlayerInlineStepViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 3421,
+      "offset": 3416,
       "length": 2,
       "value": "-5"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKPlayerInlineStepViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 3429,
+      "offset": 3424,
       "length": 2,
       "value": "-5"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKPlayerInlineStepViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 3561,
+      "offset": 3556,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKPlayerInlineStepViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 3713,
+      "offset": 3708,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKPlayerInlineStepViewController.swift",
-      "kind": "StringLiteral",
-      "offset": 5268,
-      "length": 18,
-      "value": "\"keyboardWillShow\""
-    },
-    {
-      "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKPlayerInlineStepViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 5332,
+      "offset": 5329,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKPlayerInlineStepViewController.swift",
-      "kind": "StringLiteral",
-      "offset": 5462,
-      "length": 18,
-      "value": "\"keyboardWillHide\""
-    },
-    {
-      "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKPlayerInlineStepViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 5526,
+      "offset": 5525,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKPlayerInlineStepViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 5976,
+      "offset": 5975,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKPlayerInlineStepViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 6094,
+      "offset": 6093,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKPlayerInlineStepViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 6100,
+      "offset": 6099,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKPlayerInlineStepViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 6307,
+      "offset": 6306,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKPlayerInlineStepViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 6497,
+      "offset": 6496,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKPlayerInlineStepViewController.swift",
       "kind": "Array",
-      "offset": 8575,
+      "offset": 8574,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKPlayerInlineStepViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 9503,
+      "offset": 9502,
       "length": 3,
       "value": "2.0"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKPlayerInlineStepViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 9512,
+      "offset": 9511,
       "length": 3,
       "value": "2.0"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKPlayerInlineStepViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 9839,
+      "offset": 9838,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKPlayerInlineStepViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 10501,
+      "offset": 10500,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKPlayerInlineStepViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 10507,
+      "offset": 10506,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKPlayerInlineStepViewController.swift",
       "kind": "StringLiteral",
-      "offset": 12234,
+      "offset": 12233,
       "length": 20,
       "value": "\"%@arWindow_statusB\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKPlayerInlineStepViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 12499,
+      "length": 62,
+      "value": "\"IPSDKPlayerInlineStepViewController tooltipNextButtonClick()\""
+    },
+    {
+      "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKPlayerInlineStepViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 12640,
+      "offset": 12744,
       "length": 5,
       "value": "false"
+    },
+    {
+      "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKPlayerInlineStepViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 12896,
+      "length": 63,
+      "value": "\"IPSDKPlayerInlineStepViewController tooltipCloseButtonClick()\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Helper\/IPSDKVideoPlayerView.swift",
@@ -30059,6 +30024,20 @@
       "value": "0"
     },
     {
+      "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Views\/ICPSDKShapeView.swift",
+      "kind": "StringLiteral",
+      "offset": 28701,
+      "length": 40,
+      "value": "\"ICSDKShapeView easyTipViewCloseClick()\""
+    },
+    {
+      "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Views\/ICPSDKShapeView.swift",
+      "kind": "StringLiteral",
+      "offset": 28891,
+      "length": 40,
+      "value": "\"ICSDKShapeView easyTipViewCloseClick()\""
+    },
+    {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Helper\/PlayerModel\/PlayerNotificationStatus.swift",
       "kind": "StringLiteral",
       "offset": 196,
@@ -30487,141 +30466,155 @@
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Helpers\/ICPSDKInlineHelper.swift",
+      "kind": "StringLiteral",
+      "offset": 11107,
+      "length": 19,
+      "value": "\"UIPickerTableView\""
+    },
+    {
+      "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Helpers\/ICPSDKInlineHelper.swift",
+      "kind": "StringLiteral",
+      "offset": 11143,
+      "length": 14,
+      "value": "\"UIPickerView\""
+    },
+    {
+      "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Helpers\/ICPSDKInlineHelper.swift",
       "kind": "BooleanLiteral",
-      "offset": 11112,
+      "offset": 11179,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Helpers\/ICPSDKInlineHelper.swift",
       "kind": "StringLiteral",
-      "offset": 11224,
+      "offset": 11291,
       "length": 22,
       "value": "\"UISearchBarTextField\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Helpers\/ICPSDKInlineHelper.swift",
       "kind": "BooleanLiteral",
-      "offset": 11273,
+      "offset": 11340,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Helpers\/ICPSDKInlineHelper.swift",
       "kind": "BooleanLiteral",
-      "offset": 11317,
+      "offset": 11384,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Helpers\/ICPSDKInlineHelper.swift",
       "kind": "BooleanLiteral",
-      "offset": 11428,
+      "offset": 11499,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Helpers\/ICPSDKInlineHelper.swift",
       "kind": "BooleanLiteral",
-      "offset": 12340,
+      "offset": 12900,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Helpers\/ICPSDKInlineHelper.swift",
       "kind": "BooleanLiteral",
-      "offset": 12862,
+      "offset": 13422,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Helpers\/ICPSDKInlineHelper.swift",
       "kind": "IntegerLiteral",
-      "offset": 13255,
+      "offset": 13815,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Helpers\/ICPSDKInlineHelper.swift",
       "kind": "IntegerLiteral",
-      "offset": 13546,
+      "offset": 14106,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Helpers\/ICPSDKInlineHelper.swift",
       "kind": "IntegerLiteral",
-      "offset": 13698,
+      "offset": 14258,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Helpers\/ICPSDKInlineHelper.swift",
       "kind": "IntegerLiteral",
-      "offset": 13818,
+      "offset": 14378,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Helpers\/ICPSDKInlineHelper.swift",
       "kind": "IntegerLiteral",
-      "offset": 13955,
+      "offset": 14515,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Helpers\/ICPSDKInlineHelper.swift",
       "kind": "IntegerLiteral",
-      "offset": 14116,
+      "offset": 14676,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Helpers\/ICPSDKInlineHelper.swift",
       "kind": "IntegerLiteral",
-      "offset": 14272,
+      "offset": 14832,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Helpers\/ICPSDKInlineHelper.swift",
       "kind": "IntegerLiteral",
-      "offset": 14395,
+      "offset": 14955,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Helpers\/ICPSDKInlineHelper.swift",
       "kind": "IntegerLiteral",
-      "offset": 14541,
+      "offset": 15101,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Helpers\/ICPSDKInlineHelper.swift",
       "kind": "IntegerLiteral",
-      "offset": 15116,
+      "offset": 15676,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Helpers\/ICPSDKInlineHelper.swift",
       "kind": "IntegerLiteral",
-      "offset": 15509,
+      "offset": 16069,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Helpers\/ICPSDKInlineHelper.swift",
       "kind": "IntegerLiteral",
-      "offset": 15939,
+      "offset": 16499,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Helpers\/ICPSDKInlineHelper.swift",
       "kind": "IntegerLiteral",
-      "offset": 16108,
+      "offset": 16668,
       "length": 1,
       "value": "1"
     },
@@ -36411,762 +36404,874 @@
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
       "kind": "StringLiteral",
       "offset": 8091,
-      "length": 75,
-      "value": "\"===>    startMatching called at: \""
+      "length": 72,
+      "value": "\"===> startMatching called at: \""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
       "kind": "StringLiteral",
-      "offset": 8165,
+      "offset": 8162,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 8225,
+      "offset": 8222,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 8246,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
-      "kind": "BooleanLiteral",
-      "offset": 8844,
+      "offset": 8243,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
       "kind": "StringLiteral",
-      "offset": 8869,
+      "offset": 8356,
+      "length": 62,
+      "value": "\"===> step Title: \""
+    },
+    {
+      "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
+      "kind": "StringLiteral",
+      "offset": 8391,
+      "length": 1,
+      "value": "\", Order: \""
+    },
+    {
+      "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
+      "kind": "StringLiteral",
+      "offset": 8417,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
+      "kind": "BooleanLiteral",
+      "offset": 8953,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
+      "kind": "StringLiteral",
+      "offset": 8978,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
       "kind": "StringLiteral",
-      "offset": 8942,
+      "offset": 9051,
       "length": 86,
       "value": "\"StopMatching isFinish: \""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
       "kind": "StringLiteral",
-      "offset": 8977,
+      "offset": 9086,
       "length": 1,
       "value": "\", isShowAlert: \""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
       "kind": "StringLiteral",
-      "offset": 9006,
+      "offset": 9115,
       "length": 1,
       "value": "\", message: \""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
       "kind": "StringLiteral",
-      "offset": 9027,
+      "offset": 9136,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 9149,
+      "offset": 9258,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 9191,
+      "offset": 9300,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 9445,
+      "offset": 9554,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 9449,
+      "offset": 9558,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 9822,
+      "offset": 9931,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 9851,
+      "offset": 9960,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 10432,
+      "offset": 10541,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
       "kind": "StringLiteral",
-      "offset": 10563,
+      "offset": 10672,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 10853,
+      "offset": 10962,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 10975,
+      "offset": 11084,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 10997,
+      "offset": 11106,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 11598,
+      "offset": 11707,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
       "kind": "FloatLiteral",
-      "offset": 12348,
+      "offset": 12457,
       "length": 3,
       "value": "0.5"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 12407,
-      "length": 1,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
-      "kind": "IntegerLiteral",
-      "offset": 13172,
-      "length": 1,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
-      "kind": "IntegerLiteral",
-      "offset": 13491,
-      "length": 1,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
-      "kind": "IntegerLiteral",
-      "offset": 13538,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
-      "kind": "IntegerLiteral",
-      "offset": 13672,
-      "length": 1,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
-      "kind": "IntegerLiteral",
-      "offset": 13810,
+      "offset": 12516,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
       "kind": "StringLiteral",
-      "offset": 13858,
+      "offset": 12676,
+      "length": 36,
+      "value": "\"===> startMatching from nextStep()\""
+    },
+    {
+      "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
+      "kind": "IntegerLiteral",
+      "offset": 13368,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
+      "kind": "IntegerLiteral",
+      "offset": 13687,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
+      "kind": "IntegerLiteral",
+      "offset": 13734,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
+      "kind": "IntegerLiteral",
+      "offset": 13868,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
+      "kind": "IntegerLiteral",
+      "offset": 14006,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
+      "kind": "StringLiteral",
+      "offset": 14054,
       "length": 71,
       "value": "\"===>\n    Step Failed at: \""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
       "kind": "StringLiteral",
-      "offset": 13925,
+      "offset": 14121,
       "length": 1,
       "value": "\" \n\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
       "kind": "StringLiteral",
-      "offset": 13976,
+      "offset": 14172,
       "length": 76,
       "value": "\"Step Failed Step: \""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
       "kind": "StringLiteral",
-      "offset": 14051,
+      "offset": 14247,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 14087,
+      "offset": 14283,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 14124,
+      "offset": 14320,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 14144,
+      "offset": 14340,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
       "kind": "StringLiteral",
-      "offset": 14355,
+      "offset": 14551,
       "length": 61,
       "value": "\"Retry detection with count: \""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 14413,
+      "offset": 14609,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
       "kind": "StringLiteral",
-      "offset": 14415,
+      "offset": 14611,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 14611,
+      "offset": 14807,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 14716,
+      "offset": 14912,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
       "kind": "StringLiteral",
-      "offset": 14807,
+      "offset": 15003,
       "length": 91,
       "value": "\"Next index is greater than step list size: \""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
       "kind": "StringLiteral",
-      "offset": 14868,
+      "offset": 15064,
       "length": 1,
       "value": "\", Next index is: \""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
       "kind": "StringLiteral",
-      "offset": 14897,
+      "offset": 15093,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 14919,
+      "offset": 15115,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 15722,
+      "offset": 15918,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
       "kind": "StringLiteral",
-      "offset": 15880,
+      "offset": 16076,
       "length": 100,
       "value": "\"Current index is greater than step list size: \""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
       "kind": "StringLiteral",
-      "offset": 15944,
+      "offset": 16140,
       "length": 1,
       "value": "\", current index is: \""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
       "kind": "StringLiteral",
-      "offset": 15979,
+      "offset": 16175,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 16017,
+      "offset": 16213,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 16036,
+      "offset": 16232,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
       "kind": "StringLiteral",
-      "offset": 16052,
+      "offset": 16248,
       "length": 20,
       "value": "\"Index out of bound\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 16194,
+      "offset": 16390,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 16721,
+      "offset": 16799,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
+      "kind": "StringLiteral",
+      "offset": 16841,
+      "length": 67,
+      "value": "\"runElementDetectionNatively for detectionCount: \""
+    },
+    {
+      "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
+      "kind": "StringLiteral",
+      "offset": 16907,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
+      "kind": "StringLiteral",
+      "offset": 17089,
+      "length": 96,
+      "value": "\"findTargetView receive response with tag: \""
+    },
+    {
+      "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
+      "kind": "StringLiteral",
+      "offset": 17138,
+      "length": 1,
+      "value": "\", detectionCount: \""
+    },
+    {
+      "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 17028,
+      "offset": 17182,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
+      "kind": "StringLiteral",
+      "offset": 17184,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
+      "kind": "StringLiteral",
+      "offset": 17231,
+      "length": 78,
+      "value": "\"findTargetView receive response at: \""
+    },
+    {
+      "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
+      "kind": "StringLiteral",
+      "offset": 17308,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
+      "kind": "StringLiteral",
+      "offset": 17417,
+      "length": 53,
+      "value": "\"findElementNatively parse response with tag: \""
+    },
+    {
+      "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
+      "kind": "StringLiteral",
+      "offset": 17469,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
+      "kind": "IntegerLiteral",
+      "offset": 17512,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 17179,
+      "offset": 17663,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
       "kind": "FloatLiteral",
-      "offset": 18188,
+      "offset": 18672,
       "length": 3,
       "value": "2.0"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 18329,
+      "offset": 18813,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 18357,
+      "offset": 18841,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 18647,
+      "offset": 19131,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 18667,
+      "offset": 19151,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
       "kind": "StringLiteral",
-      "offset": 18682,
+      "offset": 19166,
       "length": 25,
       "value": "\"Unable to find element.\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
       "kind": "Array",
-      "offset": 19798,
+      "offset": 20282,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
       "kind": "StringLiteral",
-      "offset": 20543,
+      "offset": 21027,
       "length": 81,
       "value": "\"Current index is greater than step list size, current index is: \""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
       "kind": "StringLiteral",
-      "offset": 20623,
+      "offset": 21107,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 20816,
+      "offset": 21300,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
       "kind": "FloatLiteral",
-      "offset": 21330,
+      "offset": 21814,
       "length": 3,
       "value": "5.0"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
       "kind": "FloatLiteral",
-      "offset": 21466,
+      "offset": 21950,
       "length": 3,
       "value": "5.0"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 21684,
+      "offset": 22168,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 21948,
+      "offset": 22432,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 22306,
+      "offset": 22790,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 22620,
+      "offset": 23104,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 23433,
+      "offset": 23917,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 23571,
+      "offset": 24055,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 23904,
+      "offset": 24388,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
       "kind": "StringLiteral",
-      "offset": 24794,
+      "offset": 25278,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
       "kind": "StringLiteral",
-      "offset": 24881,
+      "offset": 25365,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 24945,
+      "offset": 25429,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 25004,
+      "offset": 25488,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
       "kind": "StringLiteral",
-      "offset": 25094,
+      "offset": 25578,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 25389,
+      "offset": 25873,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 25432,
+      "offset": 25916,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 25459,
+      "offset": 25943,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
       "kind": "StringLiteral",
-      "offset": 26215,
+      "offset": 26699,
       "length": 33,
       "value": "\"Released.....IPSDKInlineManager\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 26596,
+      "offset": 27080,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 26806,
+      "offset": 27290,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 27052,
+      "offset": 27536,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 27285,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
-      "kind": "BooleanLiteral",
-      "offset": 27539,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
-      "kind": "StringLiteral",
       "offset": 27769,
-      "length": 102,
-      "value": "\"IPSDKPlayerInlineView CloseAction isFinish: \""
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
+      "kind": "BooleanLiteral",
+      "offset": 28023,
+      "length": 5,
+      "value": "false"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
       "kind": "StringLiteral",
-      "offset": 27825,
+      "offset": 28253,
+      "length": 105,
+      "value": "\"IPSDKInlinePlayerManager CloseAction isFinish: \""
+    },
+    {
+      "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
+      "kind": "StringLiteral",
+      "offset": 28312,
       "length": 2,
       "value": "\" at: \""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
       "kind": "StringLiteral",
-      "offset": 27870,
-      "length": 3,
+      "offset": 28357,
+      "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
       "kind": "StringLiteral",
-      "offset": 28138,
-      "length": 80,
-      "value": "\"tooltipNextButtonClick NextAction at: \""
+      "offset": 28624,
+      "length": 105,
+      "value": "\"IPSDKInlinePlayerManager tooltipNextButtonClick NextAction at: \""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
       "kind": "StringLiteral",
-      "offset": 28217,
+      "offset": 28728,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
       "kind": "FloatLiteral",
-      "offset": 28417,
+      "offset": 28928,
       "length": 4,
       "value": "0.02"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 28490,
+      "offset": 29001,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
       "kind": "StringLiteral",
-      "offset": 28685,
+      "offset": 29198,
       "length": 75,
       "value": "\"isKeyboardShowing: \""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
       "kind": "StringLiteral",
-      "offset": 28714,
+      "offset": 29227,
       "length": 2,
       "value": "\" at: \""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
       "kind": "StringLiteral",
-      "offset": 28759,
+      "offset": 29272,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
       "kind": "FloatLiteral",
-      "offset": 28835,
+      "offset": 29348,
       "length": 4,
       "value": "0.02"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
       "kind": "StringLiteral",
-      "offset": 32246,
+      "offset": 29429,
+      "length": 62,
+      "value": "\"===> startMatching from isKeyboardShowing(isShow: \""
+    },
+    {
+      "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
+      "kind": "StringLiteral",
+      "offset": 29489,
+      "length": 1,
+      "value": "\")\""
+    },
+    {
+      "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
+      "kind": "StringLiteral",
+      "offset": 32872,
       "length": 72,
       "value": "\"swizzled_ICPSDK_removeFromParentViewController: \""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
       "kind": "StringLiteral",
-      "offset": 32317,
+      "offset": 32943,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
       "kind": "StringLiteral",
-      "offset": 32452,
+      "offset": 33078,
       "length": 50,
       "value": "\"swizzled_ICPSDK_addChild: \""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
       "kind": "StringLiteral",
-      "offset": 32501,
+      "offset": 33127,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
       "kind": "StringLiteral",
-      "offset": 32637,
+      "offset": 33263,
       "length": 54,
       "value": "\"swizzled_ICPSDK_viewWillMove: \""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
       "kind": "StringLiteral",
-      "offset": 32690,
+      "offset": 33316,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 33753,
+      "offset": 34379,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 34719,
+      "offset": 35345,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/InlinePlayer\/IPSDKInlinePlayerManager.swift",
       "kind": "FloatLiteral",
-      "offset": 35157,
+      "offset": 35783,
       "length": 3,
       "value": "0.5"
     },
