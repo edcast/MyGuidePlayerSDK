@@ -14109,181 +14109,181 @@
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Helpers\/ICPSDKConfiguration.swift",
       "kind": "StringLiteral",
       "offset": 3516,
-      "length": 7,
-      "value": "\"2.6.0\""
+      "length": 9,
+      "value": "\"2023.05\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Helpers\/ICPSDKConfiguration.swift",
       "kind": "IntegerLiteral",
-      "offset": 3560,
+      "offset": 3562,
       "length": 1,
-      "value": "5"
+      "value": "6"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Helpers\/ICPSDKConfiguration.swift",
       "kind": "StringLiteral",
-      "offset": 3597,
+      "offset": 3599,
       "length": 14,
       "value": "\"(\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Helpers\/ICPSDKConfiguration.swift",
       "kind": "StringLiteral",
-      "offset": 3609,
+      "offset": 3611,
       "length": 1,
       "value": "\")\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Helpers\/ICPSDKConfiguration.swift",
       "kind": "StringLiteral",
-      "offset": 3720,
+      "offset": 3722,
       "length": 33,
       "value": "\"https:\/\/api-v3-stage.guideme.io\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Helpers\/ICPSDKConfiguration.swift",
       "kind": "StringLiteral",
-      "offset": 3791,
+      "offset": 3793,
       "length": 28,
       "value": "\"https:\/\/api-qa.myguide.org\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Helpers\/ICPSDKConfiguration.swift",
       "kind": "StringLiteral",
-      "offset": 3865,
+      "offset": 3867,
       "length": 27,
       "value": "\"https:\/\/api-v3.guideme.io\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Helpers\/ICPSDKConfiguration.swift",
       "kind": "StringLiteral",
-      "offset": 3931,
+      "offset": 3933,
       "length": 21,
       "value": "\"http:\/\/20.12.230.55\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Helpers\/ICPSDKConfiguration.swift",
       "kind": "StringLiteral",
-      "offset": 4081,
+      "offset": 4083,
       "length": 13,
       "value": "\"TESTAUTHKEY\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Helpers\/ICPSDKConfiguration.swift",
       "kind": "StringLiteral",
-      "offset": 4140,
+      "offset": 4142,
       "length": 38,
       "value": "\"4fb49382-2867-41c0-9ece-fdcaf03b46b8\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Helpers\/ICPSDKConfiguration.swift",
       "kind": "StringLiteral",
-      "offset": 4277,
+      "offset": 4279,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Helpers\/ICPSDKConfiguration.swift",
       "kind": "StringLiteral",
-      "offset": 4350,
+      "offset": 4352,
       "length": 74,
       "value": "\"https:\/\/stagecdn.guideme.io\/organization-v3-\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Helpers\/ICPSDKConfiguration.swift",
       "kind": "StringLiteral",
-      "offset": 4403,
+      "offset": 4405,
       "length": 1,
       "value": "\"\/json\/timestamp.json\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Helpers\/ICPSDKConfiguration.swift",
       "kind": "StringLiteral",
-      "offset": 4461,
+      "offset": 4463,
       "length": 77,
       "value": "\"https:\/\/stagecdn.guideme.io\/qa-organization-v3-\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Helpers\/ICPSDKConfiguration.swift",
       "kind": "StringLiteral",
-      "offset": 4517,
+      "offset": 4519,
       "length": 1,
       "value": "\"\/json\/timestamp.json\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Helpers\/ICPSDKConfiguration.swift",
       "kind": "StringLiteral",
-      "offset": 4583,
+      "offset": 4585,
       "length": 69,
       "value": "\"https:\/\/cdn.guideme.io\/organization-v3-\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Helpers\/ICPSDKConfiguration.swift",
       "kind": "StringLiteral",
-      "offset": 4631,
+      "offset": 4633,
       "length": 1,
       "value": "\"\/json\/timestamp.json\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Helpers\/ICPSDKConfiguration.swift",
       "kind": "StringLiteral",
-      "offset": 4690,
+      "offset": 4692,
       "length": 69,
       "value": "\"https:\/\/cdn.guideme.io\/organization-v3-\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Helpers\/ICPSDKConfiguration.swift",
       "kind": "StringLiteral",
-      "offset": 4738,
+      "offset": 4740,
       "length": 1,
       "value": "\"\/json\/timestamp.json\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Helpers\/ICPSDKConfiguration.swift",
       "kind": "StringLiteral",
-      "offset": 4911,
+      "offset": 4913,
       "length": 45,
       "value": "\"https:\/\/analytics-stage.guideme.io\/event\/v1\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Helpers\/ICPSDKConfiguration.swift",
       "kind": "StringLiteral",
-      "offset": 4994,
+      "offset": 4996,
       "length": 42,
       "value": "\"https:\/\/analytics-qa.guideme.io\/event\/v1\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Helpers\/ICPSDKConfiguration.swift",
       "kind": "StringLiteral",
-      "offset": 5082,
+      "offset": 5084,
       "length": 42,
       "value": "\"https:\/\/v3-analytics.guideme.io\/event\/v1\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Helpers\/ICPSDKConfiguration.swift",
       "kind": "StringLiteral",
-      "offset": 5163,
+      "offset": 5165,
       "length": 45,
       "value": "\"https:\/\/analytics-stage.guideme.io\/event\/v1\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Helpers\/ICPSDKConfiguration.swift",
       "kind": "StringLiteral",
-      "offset": 5336,
+      "offset": 5338,
       "length": 19,
       "value": "\"\/client\/register\/\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Helpers\/ICPSDKConfiguration.swift",
       "kind": "StringLiteral",
-      "offset": 5471,
+      "offset": 5473,
       "length": 17,
       "value": "\"\/client\/secret\/\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/CommonSource\/Helpers\/ICPSDKConfiguration.swift",
       "kind": "StringLiteral",
-      "offset": 5601,
+      "offset": 5603,
       "length": 8,
       "value": "\"\/push\/\""
     },
