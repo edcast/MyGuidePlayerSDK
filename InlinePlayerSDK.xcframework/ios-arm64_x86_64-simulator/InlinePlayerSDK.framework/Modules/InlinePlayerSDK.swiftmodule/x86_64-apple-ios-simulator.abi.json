@@ -10180,43 +10180,50 @@
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/PlayerMode\/Tour\/IPSDKPlayerTourListViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 12167,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/PlayerMode\/Tour\/IPSDKPlayerTourListViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 13022,
+      "offset": 13101,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/PlayerMode\/Tour\/IPSDKPlayerTourListViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 13454,
+      "offset": 13533,
       "length": 3,
       "value": "0.1"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/PlayerMode\/Tour\/IPSDKPlayerTourListViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 13474,
+      "offset": 13553,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/PlayerMode\/Tour\/IPSDKPlayerTourListViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 14377,
+      "offset": 14456,
       "length": 3,
       "value": "0.3"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/PlayerMode\/Tour\/IPSDKPlayerTourListViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 14686,
+      "offset": 14765,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/PlayerMode\/Tour\/IPSDKPlayerTourListViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 15870,
+      "offset": 15949,
       "length": 4,
       "value": "true"
     },
@@ -38293,77 +38300,77 @@
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/PlayerMode\/Tour\/IPSDKPlayerTourListViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 5146,
+      "offset": 5185,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/PlayerMode\/Tour\/IPSDKPlayerTourListViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 5853,
+      "offset": 5892,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/PlayerMode\/Tour\/IPSDKPlayerTourListViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 5958,
+      "offset": 5997,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/PlayerMode\/Tour\/IPSDKPlayerTourListViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 6566,
+      "offset": 6605,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/PlayerMode\/Tour\/IPSDKPlayerTourListViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 6671,
+      "offset": 6710,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/PlayerMode\/Tour\/IPSDKPlayerTourListViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 7930,
+      "offset": 7969,
       "length": 22,
       "value": "\"CDNSignature updated\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/PlayerMode\/Tour\/IPSDKPlayerTourListViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 9432,
+      "offset": 9471,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/PlayerMode\/Tour\/IPSDKPlayerTourListViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 10173,
+      "offset": 10212,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/PlayerMode\/Tour\/IPSDKPlayerTourListViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 10720,
+      "offset": 10759,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/PlayerMode\/Tour\/IPSDKPlayerTourListViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 11011,
+      "offset": 11050,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuidePlayerSDK-iOS\/InlinePlayerSDK\/Source\/Controllers\/PlayerMode\/Tour\/IPSDKPlayerTourListViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 11619,
+      "offset": 11658,
       "length": 1,
       "value": "0"
     },

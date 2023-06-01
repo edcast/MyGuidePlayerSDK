@@ -170,7 +170,7 @@
 		</data>
 		<key>IPSDKPlayer.storyboardc/cxI-w0-Y2M-view-Gdz-t2-wrq.nib</key>
 		<data>
-		PjFOF9H+LLboAE3GwAxGU1rVK08=
+		N7DE82PC4XjH3VVn6dn2qVN7j6M=
 		</data>
 		<key>IPSDKPlayer.storyboardc/dfA-zB-cvM-view-4VG-6K-oeI.nib</key>
 		<data>
@@ -190,7 +190,7 @@
 		</data>
 		<key>IPSDKPlayer.storyboardc/x7r-0z-BNa-view-cze-48-oDG.nib</key>
 		<data>
-		2cgRHRUgOjLU0UgF4AfkVSnkM3M=
+		tGdwNhvNd2vLNzIam6dGXs0wiu0=
 		</data>
 		<key>IPSDKShowMe.storyboardc/Cny-RD-Qua-view-gUi-jy-wb1.nib/objects-12.3+.nib</key>
 		<data>
@@ -278,7 +278,7 @@
 		</data>
 		<key>Modules/InlinePlayerSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		H0kgxjGDjzAXxOJM4W3a6Qzvisg=
+		dyvBAN1Oi8zSUEg2z7YHPraAaps=
 		</data>
 		<key>Modules/InlinePlayerSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -298,7 +298,7 @@
 		</data>
 		<key>Modules/InlinePlayerSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		H0kgxjGDjzAXxOJM4W3a6Qzvisg=
+		dyvBAN1Oi8zSUEg2z7YHPraAaps=
 		</data>
 		<key>Modules/InlinePlayerSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -970,7 +970,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			6koSJ/Ct+IPrAWfOKWpkmKcIAz0uP8JipZtDYkld4Q8=
+			rmZRJCz60rnRgeEaR2Hid3YWnXDQWwKLi6Zgs/vmItU=
 			</data>
 		</dict>
 		<key>IPSDKPlayer.storyboardc/dfA-zB-cvM-view-4VG-6K-oeI.nib</key>
@@ -1005,7 +1005,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			WLjnrlQ/u9HakRBTsLH6zhuIC8wVoYxPwrF92N438XY=
+			CXcijTlPTw2u7KobGlLL7Z+DLaOrcS+TLwOuvk7S5bA=
 			</data>
 		</dict>
 		<key>IPSDKShowMe.storyboardc/Cny-RD-Qua-view-gUi-jy-wb1.nib/objects-12.3+.nib</key>
@@ -1152,7 +1152,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			8Qw/pUFKiUzoeO1qlZl2mJ+yCGPthummw/Fy6eXEV1k=
+			RY14G3tWTEw6XXDY75cOb2j6jw2mB1BiXrxsVnDKZZE=
 			</data>
 		</dict>
 		<key>Modules/InlinePlayerSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -1187,7 +1187,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			8Qw/pUFKiUzoeO1qlZl2mJ+yCGPthummw/Fy6eXEV1k=
+			RY14G3tWTEw6XXDY75cOb2j6jw2mB1BiXrxsVnDKZZE=
 			</data>
 		</dict>
 		<key>Modules/InlinePlayerSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
