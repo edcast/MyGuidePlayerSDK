@@ -262,7 +262,7 @@
 		</data>
 		<key>Modules/InlinePlayerSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		e/IJbVItHN7A8zQoHLh6Wy50Sj8=
+		QooKpiDlnna/fove6do0teP7IKE=
 		</data>
 		<key>Modules/InlinePlayerSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -278,7 +278,7 @@
 		</data>
 		<key>Modules/InlinePlayerSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		pQ1K5dIFi354bfNQGwF0CLjemNA=
+		iFC8p6kQomeUGbwg6xKwBIm9LEQ=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -364,17 +364,17 @@
 		<data>
 		YLZq018YhM8YK6zojzv4bTiQ/O8=
 		</data>
-		<key>PlayerSDK.bundle/full-screen.png</key>
+		<key>PlayerSDK.bundle/full_screen.png</key>
 		<data>
-		HtySwfq+ejq4c3EuzauGTQGaMCE=
+		6EZ+jOv1VZ3PTVCaxjyX3tt5sgs=
 		</data>
-		<key>PlayerSDK.bundle/full-screen@2x.png</key>
+		<key>PlayerSDK.bundle/full_screen@2x.png</key>
 		<data>
-		i4madjKieXlNxZaqcSbwhasfMvg=
+		A/E64qfaNV4+2dBcjLHLsL2FuH0=
 		</data>
-		<key>PlayerSDK.bundle/full-screen@3x.png</key>
+		<key>PlayerSDK.bundle/full_screen@3x.png</key>
 		<data>
-		Fy4ba6NY0JGxIb99iIlXRzRdm9I=
+		RkilSB1+BzIUQEUSOmDle90c/Jc=
 		</data>
 		<key>PlayerSDK.bundle/guide_icon.png</key>
 		<data>
@@ -652,6 +652,33 @@
 		<data>
 		ty75DQednHtNJHjOFH1LBl8La/0=
 		</data>
+		<key>en.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			EP0Fr59Kfwz00rdtdTffufevBvw=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>fr.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			x0Ip3ViZcGI1drc5tUYwQUDeDNs=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>nl.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			TcpSBJ4She+rFd3vJOw/qk8Y0jA=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 	</dict>
 	<key>files2</key>
 	<dict>
@@ -1100,7 +1127,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			V2HRPdsEIVr8fNUbCjLEEkNBj6yg1vEma5znpT0pkj0=
+			Z1j2sEKL7aIXeAb0HjFssvLJlA2ohc66UT0u4EFlIaM=
 			</data>
 		</dict>
 		<key>Modules/InlinePlayerSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -1128,7 +1155,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			g8K1DRBgFgqpvWqofnz9krO5xyj7AymFX21muFsp9Us=
+			05iIrl6pHEwgtvfO96yyuTATfV2o+r3dIsa/f9llMKI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -1278,25 +1305,25 @@
 			x4DWLEe7R+CqEmxfw9Gg2PZ3lTxgZMkZ0q/8Rx4L/F4=
 			</data>
 		</dict>
-		<key>PlayerSDK.bundle/full-screen.png</key>
+		<key>PlayerSDK.bundle/full_screen.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			kI8wbRfsm0qcgVvo+mtirPUUN+iv4rWGGVklDtk6pmU=
+			lfKS32kL8mFzWOKKTPTgTALD0CSdkJJ3EACets1vw/A=
 			</data>
 		</dict>
-		<key>PlayerSDK.bundle/full-screen@2x.png</key>
+		<key>PlayerSDK.bundle/full_screen@2x.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			vUECKCNuMxlljY/BaypD/cKv1RjqhSEEPpIjV2nmNig=
+			Y/V2/5yHJZvNdXAYaUF0syIEepu0xqW3klq4K1woPI4=
 			</data>
 		</dict>
-		<key>PlayerSDK.bundle/full-screen@3x.png</key>
+		<key>PlayerSDK.bundle/full_screen@3x.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ys5EPmdPo9nGoUILUhNrr7152J0g53Umf6Q7eLeTiic=
+			wOfDMz2rKZ4nBJsFQYSM6zdPIo6hGILBiQiFPbckuRM=
 			</data>
 		</dict>
 		<key>PlayerSDK.bundle/guide_icon.png</key>
@@ -1781,6 +1808,33 @@
 			<data>
 			lwcnkRuqzDt6EHoMlO2CFGy3RA1H/tvYYUYK3LkEl6w=
 			</data>
+		</dict>
+		<key>en.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Shld+lKxt5KmuGnDt34pPd03Hpuegmox9ZhmC9t/0cQ=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>fr.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ZgWNRV3AWw5D5JPlI8PHS7bgqS85jZJPPjPsFttmoII=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>nl.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			41rdXgBjeRo5A/Pi+GMA/WY3y57enmbXsWPEb9zzbgY=
+			</data>
+			<key>optional</key>
+			<true/>
 		</dict>
 	</dict>
 	<key>rules</key>
