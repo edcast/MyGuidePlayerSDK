@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
 
 s.name              =   "InlinePlayerSDK"
 
-s.version           =   "2023.08"
+s.version           =   "2023.09"
 
 s.summary           =   "Simple SDK for developers to integrate with their app and provide in-app guidance for their users."
 

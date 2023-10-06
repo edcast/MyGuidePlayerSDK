@@ -1,7 +1,7 @@
 framework module InlinePlayerSDK {
   umbrella header "InlinePlayerSDK.h"
-
   export *
+
   module * { export * }
 }
 

@@ -1,5 +1,5 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)
+// swift-compiler-version: Apple Swift version 5.9 (swiftlang-5.9.0.128.108 clang-1500.0.40.1)
 // swift-module-flags: -target arm64-apple-ios11.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name InlinePlayerSDK
 // swift-module-flags-ignorable: -enable-bare-slash-regex
 import AVFoundation
@@ -26,6 +26,7 @@ import UIKit
 import WebKit
 import _Concurrency
 import _StringProcessing
+import _SwiftConcurrencyShims
 import os.log
 import os
 public struct KeychainSwiftConstants {
@@ -62,6 +63,14 @@ public struct KeychainSwiftConstants {
   public static var secMatchLimitAll: Swift.String {
     get
   }
+}
+@objc @_inheritsConvenienceInitializers public class ICPSDKBase : ObjectiveC.NSObject {
+  public var launchIcon: UIKit.UIImage? {
+    get
+    set
+  }
+  @objc override dynamic public init()
+  @objc deinit
 }
 public typealias KFCrossPlatformImage = UIKit.UIImage
 public typealias KFCrossPlatformColor = UIKit.UIColor
@@ -102,17 +111,10 @@ open class KeychainSwift {
   @objc deinit
 }
 infix operator |> : AdditionPrecedence
-@objc @_hasMissingDesignatedInitializers @objcMembers public class PlayerSDK : ObjectiveC.NSObject {
+@objc @_hasMissingDesignatedInitializers @objcMembers public class PlayerSDK : InlinePlayerSDK.ICPSDKBase {
   @objc public static var shared: InlinePlayerSDK.PlayerSDK
-  @objc public var launchIcon: UIKit.UIImage? {
-    @objc get
-    @objc set
-  }
-  @objc public func hidePlayerSDKLauncherIcon(hide: Swift.Bool, withAnimation animated: Swift.Bool)
   @objc public class func deInitializeSDK()
   @objc public class func initializeWith(orgnizationKey: Swift.String, secretKey: Swift.String, dict: [Swift.String : Swift.String]? = nil)
-  @objc public class func setSDKLaunchIcon(icon: UIKit.UIImage?)
-  @objc public class func setSDKLaunchPosition(position: CoreFoundation.CGPoint)
   @objc deinit
 }
 extension UIKit.UIView {
