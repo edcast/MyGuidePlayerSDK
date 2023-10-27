@@ -320,6 +320,7 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, strong) PlayerSDK * _Nonnull s
 + (void)setShared:(PlayerSDK * _Nonnull)value;
 + (void)deInitializeSDK;
 + (void)initializeWithOrgnizationKey:(NSString * _Nonnull)orgnizationKey secretKey:(NSString * _Nonnull)secretKey dict:(NSDictionary<NSString *, NSString *> * _Nullable)dict;
++ (void)initializeOnPremise;
 - (nonnull instancetype)init SWIFT_UNAVAILABLE;
 + (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
 @end

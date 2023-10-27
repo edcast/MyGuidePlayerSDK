@@ -115,6 +115,7 @@ infix operator |> : AdditionPrecedence
   @objc public static var shared: InlinePlayerSDK.PlayerSDK
   @objc public class func deInitializeSDK()
   @objc public class func initializeWith(orgnizationKey: Swift.String, secretKey: Swift.String, dict: [Swift.String : Swift.String]? = nil)
+  @objc public class func initializeOnPremise()
   @objc deinit
 }
 extension UIKit.UIView {
