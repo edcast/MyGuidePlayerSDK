@@ -64,6 +64,9 @@ public struct KeychainSwiftConstants {
     get
   }
 }
+extension UIKit.UIView {
+  @_Concurrency.MainActor(unsafe) public func applyUniqueIdentifer(identifier: Swift.String, label: Swift.String)
+}
 @objc @_inheritsConvenienceInitializers public class ICPSDKBase : ObjectiveC.NSObject {
   public var launchIcon: UIKit.UIImage? {
     get
@@ -117,9 +120,6 @@ infix operator |> : AdditionPrecedence
   @objc public class func initializeWith(orgnizationKey: Swift.String, secretKey: Swift.String, dict: [Swift.String : Swift.String]? = nil)
   @objc public class func initializeOnPremise()
   @objc deinit
-}
-extension UIKit.UIView {
-  @_Concurrency.MainActor(unsafe) public func applyUniqueIdentifer(identifier: Swift.String, label: Swift.String)
 }
 extension InlinePlayerSDK.KeychainSwiftAccessOptions : Swift.Equatable {}
 extension InlinePlayerSDK.KeychainSwiftAccessOptions : Swift.Hashable {}

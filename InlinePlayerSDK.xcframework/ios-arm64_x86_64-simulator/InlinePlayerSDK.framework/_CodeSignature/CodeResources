@@ -6,7 +6,7 @@
 	<dict>
 		<key>Base.lproj/Localizable.strings</key>
 		<data>
-		MTKD8ZaB3rPRs6wEblxZZHOGxwo=
+		k5LP4dVsdeXJiLlM8fATAWjZUgw=
 		</data>
 		<key>Headers/InlinePlayerSDK-Swift.h</key>
 		<data>
@@ -298,11 +298,11 @@
 		</data>
 		<key>Modules/InlinePlayerSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		TAP4u0qtry51GWHmT+9Y8fqDGe0=
+		B0OT0fVUsDdxCy7G2k7p20+7MUg=
 		</data>
 		<key>Modules/InlinePlayerSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		qZ5jGhJZdAMoTsaQ/FEgYOW9Vps=
+		dkzNjXCqV3/qHqD/OTaN64GKvqw=
 		</data>
 		<key>Modules/InlinePlayerSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -310,19 +310,19 @@
 		</data>
 		<key>Modules/InlinePlayerSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		qZ5jGhJZdAMoTsaQ/FEgYOW9Vps=
+		dkzNjXCqV3/qHqD/OTaN64GKvqw=
 		</data>
 		<key>Modules/InlinePlayerSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		NF+Zcdr3CcTqkGm26Fqq0t8+aH0=
+		C1qZJJI9kNZu09xf6XXgd0nAi+E=
 		</data>
 		<key>Modules/InlinePlayerSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		TAP4u0qtry51GWHmT+9Y8fqDGe0=
+		B0OT0fVUsDdxCy7G2k7p20+7MUg=
 		</data>
 		<key>Modules/InlinePlayerSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		v7J43V8/WAeV2FGdX28dEI1KFNk=
+		rLOxkKmGL+9EUstkVy9juv+wetE=
 		</data>
 		<key>Modules/InlinePlayerSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -330,11 +330,11 @@
 		</data>
 		<key>Modules/InlinePlayerSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		v7J43V8/WAeV2FGdX28dEI1KFNk=
+		rLOxkKmGL+9EUstkVy9juv+wetE=
 		</data>
 		<key>Modules/InlinePlayerSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		mthaIyhY1Od7DUfTdBEQ0beZvvk=
+		zq/PRj0NxpkZQDIw3QjCLWAGXug=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -744,11 +744,20 @@
 		<data>
 		ty75DQednHtNJHjOFH1LBl8La/0=
 		</data>
+		<key>en-US.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			hRJY9w0zWxETfTlzl+Z7zxFQpRQ=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>ja-JP.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			EQnLBiJFs50N5oEB7o9SzR/siTM=
+			hRJY9w0zWxETfTlzl+Z7zxFQpRQ=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -760,7 +769,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1IghWlEC/UMiKi+snjWDLf4wR8Yv8xkr/pHuK3CXLyc=
+			+t9q6kGDAaffb4b/5Ja4/5y0wUzrbBlk2zmZHr/SokY=
 			</data>
 		</dict>
 		<key>Headers/InlinePlayerSDK-Swift.h</key>
@@ -1264,14 +1273,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			CnQKw/z32ILsh1Gv9Kr90ZS0DXTBB8kBRQbMUYNnU+w=
+			1jV82n45uyQfJzP/3cYJj3kS3a/tNe/EqjlBufSiCpo=
 			</data>
 		</dict>
 		<key>Modules/InlinePlayerSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			UuH0Hx+5lmmjaaAhZfW8gh9A8cQj/jkXcwhJ8sgTZrk=
+			lS3K7XTxkDfd9bHcaxAU32DibVyZHlSEi5OKxmpPR5k=
 			</data>
 		</dict>
 		<key>Modules/InlinePlayerSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -1285,28 +1294,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			UuH0Hx+5lmmjaaAhZfW8gh9A8cQj/jkXcwhJ8sgTZrk=
+			lS3K7XTxkDfd9bHcaxAU32DibVyZHlSEi5OKxmpPR5k=
 			</data>
 		</dict>
 		<key>Modules/InlinePlayerSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			4U8LG8vQgZMd3wCsuPg9o272Eto4M6IbYLrglXCECqg=
+			hUfALgGA/RB3BSEUtgt1usoXCeE2Z5dQt7RpZu1PmY8=
 			</data>
 		</dict>
 		<key>Modules/InlinePlayerSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			CnQKw/z32ILsh1Gv9Kr90ZS0DXTBB8kBRQbMUYNnU+w=
+			1jV82n45uyQfJzP/3cYJj3kS3a/tNe/EqjlBufSiCpo=
 			</data>
 		</dict>
 		<key>Modules/InlinePlayerSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			bODaWkkoDPcDOTHz9BkRhKlULCRGEsdq+ON5gAQgcww=
+			HTiN1XKLyhipAvYpnwlSG5xmYNJsAp5aclFhoSxtJ6I=
 			</data>
 		</dict>
 		<key>Modules/InlinePlayerSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -1320,14 +1329,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			bODaWkkoDPcDOTHz9BkRhKlULCRGEsdq+ON5gAQgcww=
+			HTiN1XKLyhipAvYpnwlSG5xmYNJsAp5aclFhoSxtJ6I=
 			</data>
 		</dict>
 		<key>Modules/InlinePlayerSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			d2BkKOU47kxbIjcvNwHotCMjTpYbvL0yyKqY11NCyXc=
+			NLzZNUsiJ/ay42EWHspRJLA5Q9I467a+lv/5nbDogNM=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -2044,11 +2053,20 @@
 			lwcnkRuqzDt6EHoMlO2CFGy3RA1H/tvYYUYK3LkEl6w=
 			</data>
 		</dict>
+		<key>en-US.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			TT6uTIjaVHGLfzdrxF3aTEFhQQaVrN3DrzjFDQmBk10=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>ja-JP.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ao3Cht/JuEYYnH+l3upboxog4dgnxaeH9lhga+pYt1Q=
+			TT6uTIjaVHGLfzdrxF3aTEFhQQaVrN3DrzjFDQmBk10=
 			</data>
 			<key>optional</key>
 			<true/>

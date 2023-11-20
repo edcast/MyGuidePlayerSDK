@@ -2,6 +2,10 @@
 # MyGuidePlayer iOS SDK
 A simple SDK that provides in-app guidance to improve in-app user engagement. It integrates seamlessly without the need to write code or do deployment. 
 
+### Ver 2023.11 
+ - Implemented guide translation.
+ - Bug Fixes.
+ 
 ### Ver 2023.10 
  - Implemented on-premises.
  - Bug Fixes.
